@@ -1,2 +1,0 @@
-1. создать образ: docker build -t q1:01 .
-2. запустить контейнер: docker run -d -p 5433:5432 --name test q1:01
