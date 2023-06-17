@@ -8,5 +8,14 @@
 
 При использовании для корректной загрузки фактических данных в БД необходимо заменить в SQL скрипте путь к файлам данных на Ваш, например:  
 
+      COPY publishers
+     
+      FROM 'c:\work\publishers.csv' --> **путь к файлу publishers.csv на Вашей ЛС**
+      
+      DELIMITER ';'
+      
+      ENCODING 'UTF8'
+      
+      CSV HEADER;
   
-FROM 'c:\work\publishers.csv'
+
