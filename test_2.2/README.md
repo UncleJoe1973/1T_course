@@ -10,7 +10,7 @@
 
       COPY publishers
      
-      FROM 'c:\work\publishers.csv' --> **путь к файлу publishers.csv на Вашей ЛС**
+      FROM 'c:\work\publishers.csv' --> путь к файлу publishers.csv на Вашей ЛС
       
       DELIMITER ';'
       
