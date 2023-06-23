@@ -56,8 +56,8 @@ create table if not exists issues
 	fk_book_id integer references books (book_id) on delete cascade on update cascade,
 	fk_reader_id integer references readers (reader_id) on delete cascade on update cascade,
 	issue_dt date,
-	return_dt date,
-	returned boolean
+	return_dt date, -- default '3000-01-01',
+	returned boolean -- default false
 );
 
 --#Remove old data --
