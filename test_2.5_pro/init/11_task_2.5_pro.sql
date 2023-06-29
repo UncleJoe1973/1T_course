@@ -131,7 +131,7 @@ pr_d(shop_id, product_id, promo_date, date_max_sales_is_promo) AS ( --были �
           WHERE p_1.product_id = dd.product_id AND p_1.shop_id = dd.shop_id
         ), 
         
-pr_d_fin(shop_id, product_id, last_day, date_max_sales_is_promo) AS (  --были ли максимальные продажи ДНС в день промо итог
+pr_d_fin(shop_id, product_id, last_day, date_max_sales_is_promo) AS (  --были ли максимальные продажи в день промо итог
          SELECT p_1.shop_id,
             p_1.product_id,
             (date_trunc('MONTH'::text, p_1.promo_date::timestamp with time zone) + '1 mon'::interval - '1 day'::interval)::date AS date,
