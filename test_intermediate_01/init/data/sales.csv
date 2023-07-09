@@ -1,0 +1,500 @@
+﻿order_id;order_dt;goods_name;price;brand_name;model_name;category;cookies;order_sum
+10001;1689089191;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;250
+10002;1686283802;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;516
+10003;1687252144;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;500
+10004;1689182699;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;500
+10005;1689342303;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;693
+10006;1686191750;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;1026
+10007;1690095224;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;251
+10008;1685631301;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;684
+10009;1690306351;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;250
+10010;1686876617;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;245
+10011;1686901674;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;506
+10012;1687135049;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;ac85c879f795661834aebc23923b1389;608
+10013;1687601263;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;250
+10014;1686777697;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;750
+10015;1688340428;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;502
+10016;1685773164;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;52754973c70078038b394166e35c6f2a;912
+10017;1689431940;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;750
+10018;1688962836;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;258
+10019;1688603337;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;753
+10020;1685818985;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;251
+10021;1688372880;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;258
+10022;1686523873;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;556
+10023;1687851357;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;304
+10024;1690474181;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;918
+10025;1687122323;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;759
+10026;1690102736;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;834
+10027;1689614715;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;750
+10028;1690003257;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;52754973c70078038b394166e35c6f2a;612
+10029;1689422299;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;1c700b348477438e337f06d523c59384;250
+10030;1690826413;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;912
+10031;1690709581;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;556
+10032;1690032285;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;506
+10033;1685617329;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;df8d8eff041c9999b203da9e00160994;490
+10034;1687663351;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;774
+10035;1686949754;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;342
+10036;1685885701;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;506
+10037;1690003304;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;ac85c879f795661834aebc23923b1389;245
+10038;1687297485;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;304
+10039;1690366749;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;251
+10040;1685830013;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;684
+10041;1686697282;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;506
+10042;1687361493;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;1c700b348477438e337f06d523c59384;608
+10043;1688404824;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;ac85c879f795661834aebc23923b1389;750
+10044;1689013365;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;516
+10045;1687167774;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;612
+10046;1685680138;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;df8d8eff041c9999b203da9e00160994;912
+10047;1687378682;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;304
+10048;1690326833;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;834
+10049;1687781491;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;f57b6bd0dc47cda253686108520be777;304
+10050;1686167932;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;735
+10051;1686415793;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;462
+10052;1686768284;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;f57b6bd0dc47cda253686108520be777;608
+10053;1686540783;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;502
+10054;1688945198;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;df8d8eff041c9999b203da9e00160994;516
+10055;1689323230;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;490
+10056;1689037780;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;693
+10057;1689590805;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;52754973c70078038b394166e35c6f2a;306
+10058;1688113041;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;500
+10059;1690008656;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;750
+10060;1686691433;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;f57b6bd0dc47cda253686108520be777;1026
+10061;1690286036;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;556
+10062;1688311663;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;750
+10063;1689405984;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;759
+10064;1689987556;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;342
+10065;1689080686;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;608
+10066;1687360292;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;612
+10067;1687701067;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;250
+10068;1688868073;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;245
+10069;1687852263;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;258
+10070;1689132461;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;1c700b348477438e337f06d523c59384;253
+10071;1689509512;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;1c700b348477438e337f06d523c59384;759
+10072;1688124764;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;ac85c879f795661834aebc23923b1389;750
+10073;1687956010;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;834
+10074;1689018543;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;490
+10075;1688545739;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;df8d8eff041c9999b203da9e00160994;245
+10076;1687791815;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;52754973c70078038b394166e35c6f2a;1026
+10077;1690125635;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;df8d8eff041c9999b203da9e00160994;250
+10078;1690088216;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;608
+10079;1690780173;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;250
+10080;1686046727;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;342
+10081;1690133823;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;1c700b348477438e337f06d523c59384;462
+10082;1685873099;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;556
+10083;1689136938;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;608
+10084;1687128121;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;612
+10085;1685728969;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;253
+10086;1686835560;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;506
+10087;1687778588;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;506
+10088;1686357784;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;342
+10089;1689685036;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;1c700b348477438e337f06d523c59384;306
+10090;1686520782;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;750
+10091;1686911622;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;1c700b348477438e337f06d523c59384;250
+10092;1688592066;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;500
+10093;1688408924;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;500
+10094;1687768075;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;245
+10095;1686841559;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;774
+10096;1689537807;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;774
+10097;1690794068;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;245
+10098;1690479784;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;490
+10099;1688455012;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;251
+10100;1686465000;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;231
+10101;1689259793;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;500
+10102;1689126856;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;462
+10103;1687585537;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;750
+10104;1690138472;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;750
+10105;1685568781;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;245
+10106;1689360031;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;612
+10107;1687101357;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;ac85c879f795661834aebc23923b1389;834
+10108;1687255600;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;f57b6bd0dc47cda253686108520be777;304
+10109;1687232100;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;245
+10110;1687154498;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;df8d8eff041c9999b203da9e00160994;306
+10111;1685835088;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;1026
+10112;1688780567;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;52754973c70078038b394166e35c6f2a;245
+10113;1689784451;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;278
+10114;1686422769;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;ac85c879f795661834aebc23923b1389;506
+10115;1686225282;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;258
+10116;1685761234;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;231
+10117;1690707309;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;735
+10118;1690004596;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;278
+10119;1687205906;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;258
+10120;1686136208;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;753
+10121;1690278932;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;834
+10122;1687983297;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;250
+10123;1689348253;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;304
+10124;1689387977;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;612
+10125;1686562272;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;304
+10126;1689910355;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;258
+10127;1690227311;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;608
+10128;1689317179;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;1026
+10129;1687414563;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;502
+10130;1687919087;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;735
+10131;1687271733;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;684
+10132;1686165691;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;306
+10133;1689532379;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;306
+10134;1688893065;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;342
+10135;1690538128;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;684
+10136;1687535133;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;df8d8eff041c9999b203da9e00160994;608
+10137;1687106222;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;52754973c70078038b394166e35c6f2a;490
+10138;1687550617;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;506
+10139;1686827209;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;52754973c70078038b394166e35c6f2a;516
+10140;1685801838;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;735
+10141;1690089347;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;490
+10142;1686297123;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;556
+10143;1688703419;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;f57b6bd0dc47cda253686108520be777;516
+10144;1687408980;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;834
+10145;1688140472;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;608
+10146;1687391242;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;df8d8eff041c9999b203da9e00160994;912
+10147;1690022926;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;516
+10148;1686091817;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;df8d8eff041c9999b203da9e00160994;245
+10149;1685937826;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;753
+10150;1689242537;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;342
+10151;1690686866;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;516
+10152;1686235461;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;ac85c879f795661834aebc23923b1389;342
+10153;1685898339;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;490
+10154;1686802323;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;834
+10155;1686096515;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;774
+10156;1687673519;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;918
+10157;1686876413;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;500
+10158;1685873723;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;f57b6bd0dc47cda253686108520be777;774
+10159;1688391704;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;912
+10160;1690221824;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;ac85c879f795661834aebc23923b1389;753
+10161;1686642770;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;516
+10162;1685736141;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;735
+10163;1685971775;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;490
+10164;1690407356;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;52754973c70078038b394166e35c6f2a;774
+10165;1689976855;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;250
+10166;1690752824;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;774
+10167;1689938146;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;278
+10168;1689915510;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;556
+10169;1688345396;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;f57b6bd0dc47cda253686108520be777;251
+10170;1686727511;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;759
+10171;1687947742;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;1026
+10172;1687080756;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;306
+10173;1687524777;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;608
+10174;1687251849;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;258
+10175;1689598923;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;502
+10176;1689512454;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;52754973c70078038b394166e35c6f2a;253
+10177;1687803967;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;612
+10178;1685646318;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;df8d8eff041c9999b203da9e00160994;684
+10179;1689857574;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;759
+10180;1688207337;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;52754973c70078038b394166e35c6f2a;506
+10181;1685634272;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;1c700b348477438e337f06d523c59384;490
+10182;1689019360;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;52754973c70078038b394166e35c6f2a;490
+10183;1687273497;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;735
+10184;1687186720;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;735
+10185;1686344989;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;52754973c70078038b394166e35c6f2a;258
+10186;1687264574;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;ac85c879f795661834aebc23923b1389;490
+10187;1688684982;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;918
+10188;1686416714;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;258
+10189;1689378346;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;918
+10190;1687696410;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;1026
+10191;1689206834;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;506
+10192;1686743010;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;250
+10193;1686743832;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;253
+10194;1687836629;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;774
+10195;1687830994;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;490
+10196;1686624344;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;f57b6bd0dc47cda253686108520be777;684
+10197;1689105708;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;ac85c879f795661834aebc23923b1389;750
+10198;1689320981;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;834
+10199;1687655422;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;251
+10200;1689056164;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;753
+10201;1687815910;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;608
+10202;1686560005;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;500
+10203;1686540046;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;342
+10204;1689905222;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;500
+10205;1689307314;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;750
+10206;1685762098;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;735
+10207;1688447334;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;1c700b348477438e337f06d523c59384;516
+10208;1688704598;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;612
+10209;1686635934;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;759
+10210;1687508899;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;306
+10211;1687810344;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;556
+10212;1690520442;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;f57b6bd0dc47cda253686108520be777;516
+10213;1686328274;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;834
+10214;1685796230;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;753
+10215;1688734959;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;250
+10216;1686188381;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;1c700b348477438e337f06d523c59384;684
+10217;1688181593;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;306
+10218;1688912569;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;502
+10219;1688007178;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;304
+10220;1690540157;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;f57b6bd0dc47cda253686108520be777;462
+10221;1690082522;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;253
+10222;1687093063;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;df8d8eff041c9999b203da9e00160994;500
+10223;1690078177;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;1026
+10224;1686089684;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;490
+10225;1687941944;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;1c700b348477438e337f06d523c59384;502
+10226;1687492747;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;1026
+10227;1688971664;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;52754973c70078038b394166e35c6f2a;612
+10228;1690319450;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;490
+10229;1690452667;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;1c700b348477438e337f06d523c59384;306
+10230;1685987951;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;f57b6bd0dc47cda253686108520be777;735
+10231;1689308366;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;753
+10232;1688030687;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;258
+10233;1690830790;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;612
+10234;1688966231;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;834
+10235;1689915806;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;ac85c879f795661834aebc23923b1389;684
+10236;1686084353;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;759
+10237;1687317936;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;245
+10238;1688077052;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;304
+10239;1689399972;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;250
+10240;1686423955;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;834
+10241;1690579124;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;608
+10242;1689449695;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;ac85c879f795661834aebc23923b1389;245
+10243;1689080286;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;502
+10244;1687926743;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;834
+10245;1688785069;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;231
+10246;1686875168;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;ac85c879f795661834aebc23923b1389;231
+10247;1690520287;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;1c700b348477438e337f06d523c59384;462
+10248;1688756207;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;693
+10249;1686441048;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;278
+10250;1690577162;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;52754973c70078038b394166e35c6f2a;278
+10251;1688029692;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;52754973c70078038b394166e35c6f2a;608
+10252;1690755207;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;231
+10253;1685956201;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;245
+10254;1689309712;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;306
+10255;1690166154;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;556
+10256;1690458106;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;556
+10257;1686762027;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;231
+10258;1685991246;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;516
+10259;1688824634;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;52754973c70078038b394166e35c6f2a;1026
+10260;1687611774;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;ac85c879f795661834aebc23923b1389;251
+10261;1688290869;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;342
+10262;1688749785;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;304
+10263;1686263643;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;774
+10264;1690200501;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;684
+10265;1687530483;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;304
+10266;1689025613;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;1c700b348477438e337f06d523c59384;231
+10267;1687037535;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;df8d8eff041c9999b203da9e00160994;516
+10268;1686408779;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;231
+10269;1689318653;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;ac85c879f795661834aebc23923b1389;253
+10270;1686722061;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;750
+10271;1689934990;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;500
+10272;1688030341;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;1026
+10273;1689753773;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;490
+10274;1689318691;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;253
+10275;1688810920;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;753
+10276;1689299040;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;250
+10277;1690295022;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;245
+10278;1687577091;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;251
+10279;1685763827;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;608
+10280;1688116499;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;556
+10281;1685661867;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;ac85c879f795661834aebc23923b1389;304
+10282;1688426418;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;f57b6bd0dc47cda253686108520be777;693
+10283;1689642571;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;231
+10284;1688160854;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;750
+10285;1688418458;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;1c700b348477438e337f06d523c59384;918
+10286;1688789795;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;608
+10287;1685677953;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;52754973c70078038b394166e35c6f2a;306
+10288;1690125772;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;500
+10289;1686553003;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;490
+10290;1686060418;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;f57b6bd0dc47cda253686108520be777;490
+10291;1686077357;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;735
+10292;1686790849;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;df8d8eff041c9999b203da9e00160994;753
+10293;1689895116;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;612
+10294;1689450724;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;693
+10295;1686227792;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;306
+10296;1690177149;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;df8d8eff041c9999b203da9e00160994;304
+10297;1689932826;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;304
+10298;1686094930;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;506
+10299;1686948599;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;342
+10300;1686478708;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;912
+10301;1687942547;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;750
+10302;1690617612;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;df8d8eff041c9999b203da9e00160994;245
+10303;1688806055;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;490
+10304;1688432712;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;684
+10305;1687775017;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;834
+10306;1690090987;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;278
+10307;1686909763;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;251
+10308;1689831929;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;750
+10309;1689481159;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;502
+10310;1689718625;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;52754973c70078038b394166e35c6f2a;342
+10311;1689138950;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;834
+10312;1686241212;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;ac85c879f795661834aebc23923b1389;684
+10313;1689888381;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;df8d8eff041c9999b203da9e00160994;490
+10314;1687902177;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;ac85c879f795661834aebc23923b1389;774
+10315;1686910791;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;759
+10316;1686154462;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;231
+10317;1686460607;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;516
+10318;1687545666;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;231
+10319;1688614642;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;684
+10320;1690114019;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;912
+10321;1689292610;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;251
+10322;1689845776;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;750
+10323;1686397891;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;506
+10324;1689920334;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;502
+10325;1688660532;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;245
+10326;1690422588;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;52754973c70078038b394166e35c6f2a;753
+10327;1689457302;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;506
+10328;1686635728;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;1026
+10329;1685635087;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;918
+10330;1690577881;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;f57b6bd0dc47cda253686108520be777;918
+10331;1688355563;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;250
+10332;1686980667;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;502
+10333;1690107192;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;245
+10334;1687778745;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;f57b6bd0dc47cda253686108520be777;245
+10335;1690126799;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;608
+10336;1690056454;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;735
+10337;1686936199;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;342
+10338;1689567087;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;759
+10339;1687961547;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;52754973c70078038b394166e35c6f2a;608
+10340;1689168295;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;753
+10341;1688100137;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;735
+10342;1689260871;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;251
+10343;1685677119;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;735
+10344;1685749489;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;251
+10345;1686482845;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;608
+10346;1686593789;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;1c700b348477438e337f06d523c59384;502
+10347;1690085894;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;245
+10348;1689938249;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;278
+10349;1686754395;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;556
+10350;1689784030;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;1026
+10351;1685946980;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;342
+10352;1686197709;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;52754973c70078038b394166e35c6f2a;834
+10353;1689739953;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;500
+10354;1689124963;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;1c700b348477438e337f06d523c59384;912
+10355;1687206613;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;304
+10356;1686066610;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;516
+10357;1687057184;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;245
+10358;1685698621;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;774
+10359;1686579926;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;502
+10360;1686912284;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;750
+10361;1688686246;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;231
+10362;1688100366;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;759
+10363;1687615641;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;759
+10364;1686305903;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;342
+10365;1687144910;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;253
+10366;1690190739;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;ac85c879f795661834aebc23923b1389;735
+10367;1688552154;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;ac85c879f795661834aebc23923b1389;918
+10368;1687545265;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;684
+10369;1690155981;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;693
+10370;1687368259;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;df8d8eff041c9999b203da9e00160994;258
+10371;1690501965;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;506
+10372;1689014297;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;df8d8eff041c9999b203da9e00160994;735
+10373;1690051413;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;253
+10374;1690295104;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;608
+10375;1688311444;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;462
+10376;1687630392;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;608
+10377;1686565589;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;52754973c70078038b394166e35c6f2a;245
+10378;1689721415;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;52754973c70078038b394166e35c6f2a;918
+10379;1687565405;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;753
+10380;1688185513;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;612
+10381;1687528935;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;1026
+10382;1687225660;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;502
+10383;1687816695;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;608
+10384;1687831043;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;231
+10385;1685949786;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;502
+10386;1689923359;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;556
+10387;1687216065;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;df8d8eff041c9999b203da9e00160994;250
+10388;1690541379;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;52754973c70078038b394166e35c6f2a;774
+10389;1689873778;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;502
+10390;1690640271;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;258
+10391;1685902117;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;1c700b348477438e337f06d523c59384;245
+10392;1688826496;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;502
+10393;1690630053;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;502
+10394;1689337633;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;462
+10395;1689626127;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;f57b6bd0dc47cda253686108520be777;516
+10396;1689715030;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;306
+10397;1689671116;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;1c700b348477438e337f06d523c59384;684
+10398;1686323307;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;918
+10399;1685910564;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;502
+10400;1688177781;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;342
+10401;1686169997;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;1c700b348477438e337f06d523c59384;693
+10402;1688184651;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;462
+10403;1688399327;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;918
+10404;1690210545;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;245
+10405;1687455909;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;304
+10406;1689405785;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;306
+10407;1690549140;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;774
+10408;1685778997;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;1c700b348477438e337f06d523c59384;684
+10409;1686017124;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;df8d8eff041c9999b203da9e00160994;556
+10410;1688834884;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;1c700b348477438e337f06d523c59384;278
+10411;1689343112;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;304
+10412;1687065397;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;ac85c879f795661834aebc23923b1389;750
+10413;1687342160;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;1c700b348477438e337f06d523c59384;245
+10414;1687829421;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;506
+10415;1686872115;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;ac85c879f795661834aebc23923b1389;608
+10416;1687927806;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;684
+10417;1690246942;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;462
+10418;1686491665;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;df8d8eff041c9999b203da9e00160994;759
+10419;1689503358;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;250
+10420;1687370782;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;ac85c879f795661834aebc23923b1389;251
+10421;1686323850;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;462
+10422;1686910608;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;342
+10423;1690330971;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;735
+10424;1688269909;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;253
+10425;1686041101;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;250
+10426;1688714673;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;304
+10427;1688294286;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;342
+10428;1688912492;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;df8d8eff041c9999b203da9e00160994;735
+10429;1689010011;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;462
+10430;1686195035;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;759
+10431;1688674568;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;f57b6bd0dc47cda253686108520be777;516
+10432;1689132197;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;1c700b348477438e337f06d523c59384;735
+10433;1688050060;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;608
+10434;1687316516;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;250
+10435;1689562213;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;306
+10436;1687326583;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;245
+10437;1686247847;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;df8d8eff041c9999b203da9e00160994;304
+10438;1688573249;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;1c700b348477438e337f06d523c59384;918
+10439;1689931371;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;250
+10440;1690817837;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;1c700b348477438e337f06d523c59384;500
+10441;1689389293;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;ac85c879f795661834aebc23923b1389;500
+10442;1689693682;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;df8d8eff041c9999b203da9e00160994;516
+10443;1686768324;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;693
+10444;1689247087;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;304
+10445;1690265512;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;462
+10446;1687666378;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;3f9f54b84c0474f0dd0c8deb7786e0da;918
+10447;1685970786;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;735
+10448;1686762558;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;462
+10449;1690264558;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;df8d8eff041c9999b203da9e00160994;1026
+10450;1689301227;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;ac85c879f795661834aebc23923b1389;608
+10451;1686982012;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;f57b6bd0dc47cda253686108520be777;834
+10452;1687113946;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;253
+10453;1686102608;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;735
+10454;1689703490;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;490
+10455;1686206904;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;506
+10456;1689568275;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;834
+10457;1690500704;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;912
+10458;1688272894;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;245
+10459;1686568655;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;912
+10460;1690802155;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;490
+10461;1690548073;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;231
+10462;1685845233;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;1026
+10463;1686933067;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;df8d8eff041c9999b203da9e00160994;834
+10464;1686479044;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;251
+10465;1688462788;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;500
+10466;1685797452;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;500
+10467;1686973043;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;245
+10468;1688622706;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;304
+10469;1690164267;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;1c700b348477438e337f06d523c59384;735
+10470;1688351423;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;556
+10471;1687215952;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;612
+10472;1690511351;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;df8d8eff041c9999b203da9e00160994;684
+10473;1687025331;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;490
+10474;1690020780;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;556
+10475;1688502207;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;612
+10476;1689676137;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;258
+10477;1686123450;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;462
+10478;1687371212;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;d1b0c359235c95f84e06b295244dda9e;912
+10479;1689104317;iPhone 14 Pro Max;342;iPhone;14 Pro Max;мобильные телефоны;5c71dda351541ed58d179c0ae8b01176;1026
+10480;1690009430;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;462
+10481;1688359036;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;315cd0baf6addbcabfb8c2217544ab01;231
+10482;1688168015;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;516
+10483;1688360812;TECNO Camon 19 Pro;251;TECNO;Camon 19 Pro;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;753
+10484;1688805235;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;245
+10485;1688601027;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;52754973c70078038b394166e35c6f2a;462
+10486;1687584098;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;912
+10487;1685860363;Samsung Galaxy Z Fold 4;304;Samsung;Galaxy Z Fold 4;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;304
+10488;1690164355;Xiaomi 12 Pro;278;Xiaomi;12 Pro;мобильные телефоны;15e6c0a0598acf2c7cff0b5e112bc42c;278
+10489;1685591672;Samsung Galaxy S22 Ultra;231;Samsung;Galaxy S22 Ultra;мобильные телефоны;98281fc19b98779bc32d924a00f04f0a;462
+10490;1688662736;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;58a699ec70f17ae0c50c219e63f68aa8;245
+10491;1687906906;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;6c6729e8196a9c078c4f5ec5caf48b29;506
+10492;1686163970;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;43be03a8aa98a3ca8ce9cb48db519537;500
+10493;1687686625;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;4b26e6992bf2b9b94eaa033fc277d919;735
+10494;1686698434;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;19b764aae411142c218e0ce65c5f8163;245
+10495;1685590223;Samsung Galaxy А03;250;Samsung;Galaxy А03;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;250
+10496;1688341215;Samsung Galaxy A53 5G;258;Samsung;Galaxy A53 5G;мобильные телефоны;0f891fa0bda96eee1da330065d6e675a;258
+10497;1686309306;Huawei Mate Xs 2;306;Huawei;Mate Xs 2;мобильные телефоны;46b572734178c8ab5d5892be11e18d0a;306
+10498;1685902856;Redmi Note 11;245;Redmi;Note 11;мобильные телефоны;302e7ab480cb1f489d448b3585dc8842;490
+10499;1687561617;POCO X4 Pro;253;POCO;X4 Pro;мобильные телефоны;8ad0725042674b92c9297266e1bcccc2;759
