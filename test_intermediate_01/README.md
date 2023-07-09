@@ -20,5 +20,6 @@
 Контейнер с решением поднимается запуском файла [docker-compose.yml](docker-compose.yml), требуемая витрина данных сохраняется в виде таблицы БД **_Clickhouse_** **data_mart**.
 
   * Данные слоя Raw базы данных **_PostgreSQL_** загружаются скриптом [01_init_raw.sql](init/01_init_raw.sql), исходные данные находятся в папке [**init/data**](./init/data).
-  * Витрина в БД **_PostgreSQL_** формируется скриптом [11_task_2.5_pro.sql](init/11_task_2.5_pro.sql).
-  * Миграция витрины в БД **_Clickhouse_** выполняется скриптом [clickhouse/01_init_db_2.8_pro.sql](clickhouse/01_init_db_2.8_pro.sql).
+  * Структура слоя Core и его наполнение данными в БД **_PostgreSQL_** формируется скриптом [02_init_core.sql](init/02_init_core.sql).
+  * Витрина данных в БД **_PostgreSQL_** формируется скриптом [03_data_mart.sql](init/03_data_mart.sql)
+  * Миграция витрины в БД **_Clickhouse_** выполняется скриптом [data_mart.sql](clickhouse/data_mart.sql).
