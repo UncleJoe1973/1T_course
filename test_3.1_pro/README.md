@@ -8,7 +8,7 @@
 
 Контейнер с решением поднимается запуском файла [docker-compose.yml](docker-compose.yml). За процессом выполнения можно наблюдать через лог Docker, о завершении работы сигнализирует строка ```"Database initializing has been finished"```.
 
-В папке [init](./init) размещен [Dockerfile](/init/Dockerfile), устанавливающий в контейнер необходимые для выполнения кода пакеты Python (файл [requirements.txt](/init/requirements.txt)).
+В папке [init](./init) размещен [Dockerfile](./init/Dockerfile), устанавливающий в контейнер необходимые для выполнения кода пакеты Python (файл [requirements.txt](./init/requirements.txt)).
 
 Скрипты Python (папка [scrypts](./scrypts)) имеют следующее предназначение: 
 
