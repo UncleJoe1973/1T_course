@@ -1,0 +1,4 @@
+Faker==19.0.0
+requests==2.31.0
+bs4==0.0.1
+psycopg2-binary
