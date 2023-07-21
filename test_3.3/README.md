@@ -2,7 +2,7 @@
 
 Текст DAG [task_3.3.py](task_3.3.py)
 
-Скрин-шот Aiflow Graph [DAG Graph.PNG](Dag_Graph.PNG)
+Скрин-шот Aiflow Graph [DAG Graph.PNG](DAG_Graph.PNG)
 
 Скрин-шот витрины данных [Final Data Mart.PNG]('final_data_mart.png)
 
