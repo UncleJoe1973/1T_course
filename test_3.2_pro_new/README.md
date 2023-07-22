@@ -4,4 +4,6 @@
 
 Решение представлено в файле [docker-compose.yml](docker-compose.yml)
 
-Файлы сборки образа Python находятся в папке  [./init](./init)
+Файлы сборки образа Python находятся в папке  [init](./init)
+
+Скрипт Python, создающий базу данных, - [scrypts/test_3.2_pro_new.py](./scrypts/test_3.2_pro_new.py)
