@@ -6,5 +6,6 @@
 
 Скриншот конечной витрины данных (данные взяты за июль 2023 г.)
 
-![изображение](https://github.com/UncleJoe1973/1T_course/assets/29273924/1243939c-d3da-45b2-8e29-767ebfa221cf)
+![изображение](https://github.com/UncleJoe1973/1T_course/assets/29273924/e2fd7b85-112d-451a-83ac-64468fe09287)
+
 
