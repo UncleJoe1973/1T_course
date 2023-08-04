@@ -34,4 +34,4 @@ select
 from sales s 
 	join products p using(goods_id)
 group by to_char(s.order_dt::timestamp, 'YYYY-Mon')
-order by 1
+order by 1;
