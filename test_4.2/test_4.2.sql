@@ -6,9 +6,7 @@ create table sales
 	order_amt integer
 )
 distributed by (order_id)
-partition by range (order_dt) ( START (date '2023-01-01') INCLUSIVE
-   								END (date '2024-01-01') EXCLUSIVE
-   								EVERY (INTERVAL '1 month') );
+partition by range (order_dt) ( START (date '2023-01-01') INCLUSIVE END (date '2024-01-01') EXCLUSIVE EVERY (INTERVAL '1 month') );
 
 COPY sales
 FROM '/code/mine/data/core_sales.csv'
