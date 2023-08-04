@@ -1,0 +1,6 @@
+Greenplum credentials
+
+GREENPLUM_HOST=gpdbsne
+GREENPLUM_USER=gpadmin
+GREENPLUM_DB=gpadmin #
+GREENPLUM_DB_PWD=pivotal
