@@ -1,0 +1,2613 @@
+company,year,age_group
+Abbott LLC,2021,0-18
+Acevedo Group,2020,0-18
+Acevedo and Sons,2020,0-18
+Acosta Ltd,2020,"33-39, 48-54"
+Acosta PLC,2020,19-25
+Acosta PLC,2021,0-18
+Acosta and Sons,2020,"0-18, 19-25"
+Adams LLC,2021,26-32
+Adams PLC,2022,62-69
+Adkins Inc,2020,0-18
+Adkins Inc,2022,0-18
+Adkins PLC,2020,40-47
+Adkins and Sons,2020,"0-18, 62-69"
+Adkins and Sons,2021,40-47
+Aguilar Group,2020,62-69
+Aguilar Inc,2020,0-18
+Aguilar Ltd,2021,48-54
+Aguilar PLC,2022,33-39
+Aguirre LLC,2021,62-69
+Aguirre Ltd,2020,48-54
+Aguirre Ltd,2022,"0-18, 55-61"
+Aguirre PLC,2021,48-54
+Aguirre PLC,2022,26-32
+Alexander Inc,2022,48-54
+Alexander LLC,2020,70+
+Alexander and Sons,2020,0-18
+Alexander and Sons,2021,48-54
+Ali and Sons,2021,55-61
+Allen Group,2021,0-18
+Allen PLC,2021,0-18
+Allen and Sons,2021,0-18
+Allison LLC,2020,48-54
+Alvarado Ltd,2020,19-25
+Alvarado PLC,2022,33-39
+Alvarez Inc,2020,0-18
+Alvarez PLC,2020,62-69
+Andersen PLC,2020,33-39
+Andersen and Sons,2021,26-32
+Anderson PLC,2020,48-54
+Andrade and Sons,2020,0-18
+Andrews Ltd,2021,0-18
+Andrews PLC,2020,40-47
+Andrews-Hicks,2021,0-18
+Anthony Inc,2022,33-39
+Anthony LLC,2020,33-39
+Anthony and Sons,2021,62-69
+Archer LLC,2022,70+
+Archer PLC,2021,0-18
+Arellano-Bridges,2020,"19-25, 33-39"
+Arias Group,2020,"48-54, 70+"
+Arias and Sons,2020,33-39
+Armstrong Group,2020,70+
+Armstrong Group,2021,62-69
+Armstrong LLC,2020,0-18
+Arnold PLC,2022,0-18
+Arnold and Sons,2021,55-61
+Arroyo Group,2022,70+
+Arroyo Inc,2021,26-32
+Arroyo PLC,2021,55-61
+Ashley Inc,2022,"0-18, 48-54"
+Ashley-Montes,2021,48-54
+Atkins Inc,2021,62-69
+Atkins LLC,2020,62-69
+Atkinson and Sons,2020,"26-32, 33-39"
+Austin Group,2021,40-47
+Austin Ltd,2020,0-18
+Austin PLC,2020,62-69
+Austin-Taylor,2022,19-25
+Avila Group,2021,33-39
+Avila LLC,2020,33-39
+Avila Ltd,2020,26-32
+Avila Ltd,2021,62-69
+Ayala LLC,2021,33-39
+Ayala Ltd,2020,"33-39, 70+"
+Ayala Ltd,2022,40-47
+Ayala PLC,2021,"0-18, 55-61"
+Ayers Group,2021,19-25
+Ayers LLC,2021,26-32
+Ayers Ltd,2021,62-69
+Ayers PLC,2021,33-39
+Ayers and Sons,2020,0-18
+Bailey Inc,2020,48-54
+Baird Inc,2020,40-47
+Baird LLC,2020,55-61
+Baird PLC,2020,19-25
+Baird PLC,2021,19-25
+Baird and Sons,2021,48-54
+Baker LLC,2020,"19-25, 62-69"
+Baker and Sons,2021,62-69
+Baldwin LLC,2021,40-47
+Baldwin and Sons,2020,55-61
+Ball Group,2020,55-61
+Ball LLC,2020,26-32
+Ball Ltd,2021,26-32
+Ball PLC,2020,33-39
+Ballard PLC,2020,0-18
+Ballard PLC,2021,19-25
+Ballard and Sons,2021,70+
+Banks Group,2020,19-25
+Banks LLC,2020,48-54
+Banks and Sons,2020,0-18
+Barajas Group,2021,19-25
+Barajas Inc,2021,48-54
+Barajas PLC,2021,26-32
+Barajas and Sons,2020,48-54
+Barber PLC,2021,33-39
+Barber and Sons,2020,62-69
+Barker Group,2020,"0-18, 70+"
+Barnes Inc,2021,40-47
+Barnett Group,2021,26-32
+Barnett PLC,2021,48-54
+Barr Ltd,2021,40-47
+Barrera Group,2021,70+
+Barrera Ltd,2020,19-25
+Barrett Group,2020,26-32
+Barrett LLC,2021,70+
+Barrett Ltd,2021,55-61
+Barry Ltd,2021,0-18
+Bartlett Inc,2021,70+
+Barton LLC,2022,19-25
+Barton and Sons,2020,33-39
+Barton and Sons,2022,70+
+Bass LLC,2020,48-54
+Bates Inc,2022,62-69
+Bates and Sons,2022,33-39
+Bauer LLC,2022,0-18
+Bauer and Sons,2020,"0-18, 26-32"
+Bautista Inc,2020,26-32
+Bautista Inc,2021,19-25
+Baxter LLC,2020,40-47
+Baxter PLC,2020,62-69
+Baxter PLC,2021,0-18
+Baxter and Sons,2020,40-47
+Baxter and Sons,2021,40-47
+Bean Ltd,2022,0-18
+Bean and Sons,2020,26-32
+Beard Inc,2020,0-18
+Beard LLC,2020,19-25
+Beard Ltd,2020,"55-61, 70+"
+Beard PLC,2020,0-18
+Beard PLC,2022,48-54
+Beasley LLC,2022,0-18
+Beck Inc,2021,55-61
+Bell Ltd,2020,0-18
+Bell PLC,2021,19-25
+Beltran Ltd,2021,62-69
+Beltran PLC,2022,26-32
+Benitez Inc,2020,48-54
+Benitez LLC,2021,48-54
+Benitez Ltd,2021,40-47
+Benjamin LLC,2020,"40-47, 62-69"
+Benjamin Ltd,2021,26-32
+Bennett Group,2020,19-25
+Bennett LLC,2020,55-61
+Bennett and Sons,2021,0-18
+Benson PLC,2021,"19-25, 62-69"
+Bentley and Sons,2020,33-39
+Benton LLC,2020,55-61
+Benton PLC,2020,55-61
+Benton-Pearson,2021,62-69
+Berg Group,2022,"26-32, 62-69"
+Berger LLC,2021,62-69
+Berger Ltd,2022,19-25
+Berger and Sons,2021,26-32
+Bernard Inc,2020,"33-39, 70+"
+Bernard LLC,2020,55-61
+Bernard Ltd,2020,0-18
+Bernard Ltd,2021,70+
+Bernard and Sons,2020,62-69
+Berry Ltd,2021,26-32
+Berry PLC,2021,55-61
+Berry and Sons,2022,48-54
+Best Group,2020,48-54
+Best and Sons,2020,33-39
+Bird Inc,2020,26-32
+Bird LLC,2021,62-69
+Bird Ltd,2022,0-18
+Bishop Inc,2020,0-18
+Bishop Inc,2022,70+
+Bishop PLC,2022,62-69
+Black PLC,2021,55-61
+Black and Sons,2021,26-32
+Blackburn Ltd,2021,70+
+Blackburn PLC,2021,48-54
+Blackburn and Sons,2020,33-39
+Blackwell Inc,2021,48-54
+Blackwell LLC,2021,55-61
+Blair Group,2021,"19-25, 26-32"
+Blair LLC,2021,55-61
+Blair PLC,2020,0-18
+Blair and Sons,2020,40-47
+Blake Inc,2021,55-61
+Blake LLC,2021,70+
+Blake Ltd,2020,48-54
+Blake and Sons,2020,0-18
+Blanchard Inc,2020,"0-18, 55-61"
+Blanchard-Mills,2020,40-47
+Blankenship Inc,2021,19-25
+Blankenship PLC,2022,26-32
+Blevins Group,2020,0-18
+Blevins Ltd,2021,55-61
+Blevins and Sons,2022,48-54
+Bolton LLC,2021,40-47
+Bolton and Sons,2021,40-47
+Bond LLC,2020,40-47
+Bond Ltd,2021,70+
+Bond and Sons,2022,48-54
+Bond-Werner,2021,33-39
+Bonilla LLC,2020,48-54
+Bonilla LLC,2022,"0-18, 48-54, 70+"
+Booker LLC,2022,70+
+Booker Ltd,2020,62-69
+Booker Ltd,2021,55-61
+Booker PLC,2021,"0-18, 19-25"
+Booker and Sons,2022,40-47
+Boone LLC,2022,33-39
+Boone PLC,2021,0-18
+Booth Inc,2021,19-25
+Bowen PLC,2022,55-61
+Bowen and Sons,2021,0-18
+Bowman and Sons,2021,40-47
+Boyd Group,2022,19-25
+Boyd Ltd,2022,40-47
+Boyd-Suarez,2021,70+
+Boyer Inc,2020,19-25
+Boyer LLC,2020,19-25
+Boyer PLC,2022,33-39
+Boyle PLC,2021,0-18
+Bradford Group,2022,0-18
+Bradford LLC,2021,"0-18, 40-47"
+Bradford Ltd,2020,33-39
+Bradford Ltd,2021,26-32
+Bradley LLC,2021,33-39
+Bradley Ltd,2021,19-25
+Bradshaw LLC,2021,"0-18, 33-39"
+Bradshaw PLC,2021,70+
+Brady Group,2020,55-61
+Branch Group,2021,"0-18, 55-61"
+Branch Inc,2020,0-18
+Branch Ltd,2020,48-54
+Brandt Group,2021,33-39
+Brandt Group,2022,40-47
+Brandt LLC,2021,19-25
+Brandt Ltd,2021,40-47
+Braun Group,2020,26-32
+Braun Inc,2022,33-39
+Bray Group,2021,33-39
+Bray Inc,2020,55-61
+Bray PLC,2022,33-39
+Brennan and Sons,2021,62-69
+Brewer PLC,2020,19-25
+Brewer PLC,2021,48-54
+Bridges Inc,2020,48-54
+Bright Inc,2021,70+
+Bright LLC,2021,70+
+Bright Ltd,2022,33-39
+Brock LLC,2020,70+
+Brock PLC,2020,26-32
+Brock and Sons,2020,55-61
+Brooks Group,2021,70+
+Brooks LLC,2020,19-25
+Brooks PLC,2021,70+
+Brooks PLC,2022,26-32
+Browning Inc,2021,26-32
+Browning PLC,2020,19-25
+Bruce LLC,2022,55-61
+Bruce and Sons,2022,0-18
+Bryan Group,2020,19-25
+Bryan PLC,2022,40-47
+Bryant LLC,2021,0-18
+Bryant and Sons,2021,40-47
+Buchanan Inc,2022,26-32
+Buchanan Ltd,2021,62-69
+Buck Inc,2021,"19-25, 62-69"
+Buckley Group,2020,55-61
+Buckley and Sons,2021,70+
+Bullock Group,2020,55-61
+Bullock-Robertson,2020,55-61
+Burch PLC,2020,19-25
+Burch PLC,2021,40-47
+Burgess Group,2021,"33-39, 70+"
+Burgess Group,2022,48-54
+Burgess Ltd,2021,62-69
+Burke Inc,2020,48-54
+Burke LLC,2022,33-39
+Burnett Group,2021,0-18
+Burnett PLC,2020,0-18
+Burns Group,2021,55-61
+Burton Inc,2022,70+
+Burton LLC,2021,0-18
+Bush and Sons,2021,26-32
+Butler Group,2020,"19-25, 26-32"
+Butler Ltd,2020,33-39
+Butler Ltd,2021,0-18
+Butler PLC,2020,62-69
+Byrd Group,2021,70+
+Byrd Group,2022,26-32
+Byrd and Sons,2020,"40-47, 62-69"
+Cabrera Group,2021,0-18
+Cabrera Inc,2021,62-69
+Cabrera Inc,2022,70+
+Cabrera Ltd,2022,55-61
+Cabrera PLC,2020,55-61
+Cabrera and Sons,2020,26-32
+Cain Inc,2022,26-32
+Cain-Gilbert,2020,26-32
+Calderon LLC,2020,"55-61, 70+"
+Calderon PLC,2021,70+
+Caldwell Group,2022,40-47
+Caldwell Inc,2020,33-39
+Caldwell PLC,2021,19-25
+Calhoun LLC,2021,55-61
+Calhoun Ltd,2021,26-32
+Calhoun PLC,2020,0-18
+Calhoun and Sons,2021,70+
+Calhoun-Fisher,2021,33-39
+Callahan Inc,2021,0-18
+Callahan Ltd,2020,19-25
+Callahan PLC,2020,"0-18, 40-47"
+Camacho Ltd,2020,55-61
+Camacho and Sons,2021,0-18
+Cameron and Sons,2021,55-61
+Campbell Ltd,2020,26-32
+Campos Group,2020,33-39
+Campos and Sons,2020,62-69
+Cannon Group,2020,40-47
+Cannon LLC,2020,40-47
+Cantrell Group,2021,0-18
+Cantrell Inc,2020,19-25
+Cantrell Inc,2021,19-25
+Cantrell LLC,2020,62-69
+Cantrell Ltd,2022,33-39
+Cantrell PLC,2021,62-69
+Cantrell and Sons,2021,70+
+Cantu Inc,2020,33-39
+Cardenas Group,2021,33-39
+Cardenas Inc,2021,40-47
+Cardenas PLC,2021,40-47
+Carey and Sons,2020,33-39
+Carlson Group,2021,"0-18, 40-47"
+Carlson Ltd,2021,0-18
+Carlson and Sons,2022,26-32
+Carney Group,2020,40-47
+Carpenter Group,2020,40-47
+Carpenter Ltd,2020,19-25
+Carpenter Ltd,2021,48-54
+Carpenter PLC,2021,62-69
+Carpenter and Sons,2021,33-39
+Carr Group,2022,40-47
+Carr Inc,2020,48-54
+Carr and Sons,2022,19-25
+Carrillo Inc,2020,55-61
+Carrillo Ltd,2021,0-18
+Carrillo PLC,2022,26-32
+Carroll Inc,2021,70+
+Carroll LLC,2020,"40-47, 70+"
+Carroll and Sons,2020,33-39
+Carson LLC,2020,33-39
+Carson and Sons,2020,33-39
+Carter Inc,2020,0-18
+Carter Inc,2021,40-47
+Carter LLC,2021,70+
+Carter and Sons,2020,19-25
+Case LLC,2020,40-47
+Casey Group,2020,48-54
+Casey Inc,2020,26-32
+Casey Inc,2021,48-54
+Casey Inc,2022,40-47
+Casey LLC,2021,70+
+Casey-Love,2021,19-25
+Castaneda and Sons,2020,26-32
+Castillo Group,2020,40-47
+Castro Inc,2021,33-39
+Castro Ltd,2020,0-18
+Castro Ltd,2022,33-39
+Chambers Group,2020,70+
+Chambers Group,2021,62-69
+Chambers Inc,2020,0-18
+Chambers Inc,2021,33-39
+Chambers LLC,2021,33-39
+Chan LLC,2021,40-47
+Chan and Sons,2020,40-47
+Chan and Sons,2021,26-32
+Chandler and Sons,2021,40-47
+Chaney Ltd,2021,48-54
+Chaney PLC,2020,26-32
+Chang Group,2022,55-61
+Chang Inc,2020,62-69
+Chang LLC,2021,26-32
+Chang Ltd,2021,26-32
+Chang PLC,2022,19-25
+Chapman Inc,2021,0-18
+Chapman Ltd,2020,19-25
+Charles Group,2021,19-25
+Charles PLC,2022,33-39
+Chase LLC,2021,33-39
+Chavez Group,2021,0-18
+Chavez Ltd,2022,70+
+Chen Group,2020,40-47
+Chen LLC,2020,70+
+Chen LLC,2022,40-47
+Chen Ltd,2021,33-39
+Cherry Inc,2021,0-18
+Cherry Ltd,2020,"0-18, 40-47"
+Cherry Ltd,2021,70+
+Cherry PLC,2020,19-25
+Cherry and Sons,2020,"19-25, 40-47"
+Choi Group,2020,0-18
+Choi Inc,2022,33-39
+Choi LLC,2020,0-18
+Choi LLC,2021,0-18
+Choi PLC,2020,40-47
+Choi and Sons,2022,19-25
+Christensen Ltd,2020,26-32
+Christensen-Lloyd,2021,55-61
+Christian Group,2020,0-18
+Christian Inc,2021,48-54
+Christian and Sons,2022,55-61
+Christian-Mathews,2021,0-18
+Chung Group,2020,33-39
+Church Group,2021,33-39
+Church Inc,2020,0-18
+Church PLC,2020,62-69
+Church and Sons,2020,19-25
+Church-Cervantes,2020,26-32
+Cisneros Ltd,2020,70+
+Cisneros and Sons,2020,"26-32, 62-69"
+Clark Group,2021,33-39
+Clark LLC,2021,48-54
+Clark PLC,2021,70+
+Clark and Sons,2020,62-69
+Clarke Inc,2020,40-47
+Clarke Inc,2021,33-39
+Clarke LLC,2020,0-18
+Clarke LLC,2021,"48-54, 62-69"
+Clarke Ltd,2021,48-54
+Clarke PLC,2021,62-69
+Clay Inc,2021,19-25
+Clay Ltd,2020,26-32
+Clay PLC,2020,40-47
+Cline Group,2020,55-61
+Cobb Group,2020,40-47
+Cobb Group,2022,48-54
+Cobb Ltd,2020,55-61
+Cobb PLC,2020,48-54
+Cochran Inc,2020,19-25
+Cochran Inc,2022,0-18
+Cochran LLC,2020,40-47
+Cochran and Sons,2022,26-32
+Coffey Group,2020,62-69
+Coffey Group,2021,55-61
+Coffey Inc,2020,19-25
+Coffey Inc,2021,62-69
+Coffey LLC,2020,0-18
+Coffey Ltd,2022,48-54
+Coffey and Sons,2022,62-69
+Cohen LLC,2020,33-39
+Cohen Ltd,2022,19-25
+Cohen PLC,2021,26-32
+Cole Group,2022,40-47
+Cole Inc,2021,0-18
+Cole PLC,2022,70+
+Cole and Sons,2022,70+
+Coleman Group,2022,48-54
+Coleman Inc,2021,0-18
+Coleman Ltd,2021,62-69
+Coleman PLC,2020,0-18
+Coleman PLC,2021,62-69
+Collier Group,2020,19-25
+Collier Inc,2022,"0-18, 40-47"
+Collier LLC,2021,55-61
+Collier Ltd,2020,26-32
+Collier and Sons,2021,48-54
+Collier and Sons,2022,0-18
+Collins Group,2021,70+
+Collins and Sons,2021,55-61
+Colon Group,2020,48-54
+Colon Ltd,2022,70+
+Combs Group,2021,62-69
+Combs Ltd,2021,62-69
+Combs Ltd,2022,0-18
+Combs PLC,2021,70+
+Combs and Sons,2021,48-54
+Combs-Mcdowell,2021,55-61
+Compton and Sons,2020,0-18
+Conner Inc,2020,26-32
+Conner PLC,2020,48-54
+Conner and Sons,2020,19-25
+Conrad and Sons,2020,26-32
+Contreras Group,2021,55-61
+Contreras LLC,2021,40-47
+Conway LLC,2020,48-54
+Conway and Sons,2020,26-32
+Cook and Sons,2020,33-39
+Cook-Kelly,2021,48-54
+Cooke Inc,2020,33-39
+Cooke LLC,2020,62-69
+Cooke Ltd,2020,0-18
+Cooke and Sons,2021,0-18
+Cooley Group,2021,48-54
+Cooley Inc,2022,19-25
+Cooley Ltd,2021,40-47
+Cooper Group,2021,0-18
+Cooper PLC,2020,33-39
+Cooper and Sons,2021,19-25
+Copeland LLC,2021,48-54
+Copeland Ltd,2020,0-18
+Cordova Inc,2021,26-32
+Cordova Inc,2022,26-32
+Cortez LLC,2020,62-69
+Cortez LLC,2021,48-54
+Cortez Ltd,2021,62-69
+Cortez and Sons,2021,48-54
+Costa Group,2020,"0-18, 55-61"
+Costa Inc,2021,0-18
+Costa Inc,2022,26-32
+Costa Ltd,2020,48-54
+Cowan Group,2022,62-69
+Cowan LLC,2021,19-25
+Cowan PLC,2020,0-18
+Cox Ltd,2020,55-61
+Cox and Sons,2022,33-39
+Crane Group,2021,0-18
+Crane Inc,2020,70+
+Crawford Inc,2021,62-69
+Crawford LLC,2020,40-47
+Crawford Ltd,2020,62-69
+Crawford PLC,2020,0-18
+Crosby Group,2021,62-69
+Crosby Ltd,2021,"0-18, 62-69"
+Crosby PLC,2020,0-18
+Cross LLC,2021,19-25
+Cross PLC,2022,48-54
+Cross and Sons,2020,55-61
+Cross and Sons,2022,48-54
+Cruz LLC,2020,0-18
+Cruz Ltd,2021,48-54
+Cruz PLC,2021,0-18
+Cruz and Sons,2021,48-54
+Cuevas Group,2020,62-69
+Cuevas PLC,2021,70+
+Cummings Ltd,2020,26-32
+Cummings PLC,2021,40-47
+Curry Group,2020,40-47
+Curry Inc,2021,"0-18, 48-54"
+Dalton Group,2020,19-25
+Dalton Group,2021,48-54
+Daniel Group,2022,70+
+Daniels Inc,2021,26-32
+Daugherty Ltd,2021,26-32
+Davenport PLC,2020,55-61
+Davenport PLC,2021,40-47
+David Group,2020,33-39
+Davidson Group,2020,"19-25, 48-54"
+Davidson Inc,2021,62-69
+Davidson LLC,2021,40-47
+Davidson Ltd,2020,40-47
+Davies Ltd,2020,0-18
+Davies Ltd,2021,0-18
+Davies PLC,2020,48-54
+Davila Inc,2022,"19-25, 62-69"
+Davila LLC,2022,55-61
+Davila PLC,2020,26-32
+Davis LLC,2020,0-18
+Davis LLC,2021,70+
+Davis Ltd,2020,55-61
+Davis and Sons,2020,48-54
+Davis and Sons,2021,26-32
+Dawson Group,2020,0-18
+Dawson Ltd,2020,40-47
+Dawson Ltd,2021,"40-47, 55-61"
+Dawson and Sons,2020,33-39
+Day Group,2020,19-25
+Day Inc,2020,70+
+Day PLC,2021,33-39
+Day and Sons,2021,62-69
+Dean PLC,2021,70+
+Dean and Sons,2020,19-25
+Decker Group,2021,55-61
+Decker Inc,2021,48-54
+Decker Inc,2022,0-18
+Decker Ltd,2020,40-47
+Decker PLC,2020,62-69
+Decker and Sons,2021,62-69
+Delacruz LLC,2020,26-32
+Deleon Inc,2022,48-54
+Deleon LLC,2021,19-25
+Delgado Group,2020,48-54
+Delgado Inc,2020,0-18
+Delgado Ltd,2021,55-61
+Dennis LLC,2020,55-61
+Dennis PLC,2020,"0-18, 26-32"
+Dennis PLC,2021,48-54
+Dennis and Sons,2020,0-18
+Diaz LLC,2020,70+
+Diaz-Shepard,2021,33-39
+Dickerson Group,2021,26-32
+Dickerson Inc,2020,62-69
+Dickerson Inc,2021,62-69
+Dickerson PLC,2021,40-47
+Dickerson and Sons,2020,40-47
+Dickson Inc,2020,62-69
+Dickson Inc,2021,70+
+Dickson Ltd,2021,70+
+Dillon Inc,2022,19-25
+Dixon Group,2022,33-39
+Dixon Inc,2020,62-69
+Dixon Inc,2021,0-18
+Dodson LLC,2022,19-25
+Dodson Ltd,2022,55-61
+Dominguez Ltd,2020,40-47
+Dominguez PLC,2020,0-18
+Dominguez PLC,2021,62-69
+Donaldson Inc,2020,19-25
+Donaldson LLC,2021,40-47
+Donovan Group,2022,26-32
+Donovan Inc,2020,0-18
+Donovan Inc,2021,70+
+Dorsey Group,2020,70+
+Dorsey Inc,2020,62-69
+Dorsey LLC,2021,33-39
+Dorsey LLC,2022,26-32
+Dorsey Ltd,2021,48-54
+Dougherty Ltd,2020,55-61
+Douglas Group,2022,33-39
+Downs Group,2020,55-61
+Downs LLC,2021,33-39
+Downs PLC,2020,19-25
+Doyle LLC,2021,19-25
+Doyle PLC,2020,19-25
+Doyle PLC,2021,40-47
+Drake Ltd,2020,0-18
+Drake PLC,2020,"26-32, 40-47, 48-54"
+Duarte Group,2021,70+
+Duarte PLC,2020,70+
+Dudley Group,2020,26-32
+Dudley Inc,2022,40-47
+Dudley Ltd,2020,62-69
+Dudley Ltd,2021,33-39
+Dudley PLC,2020,26-32
+Duffy Inc,2020,55-61
+Duffy Ltd,2022,55-61
+Duffy PLC,2021,0-18
+Duffy and Sons,2021,19-25
+Duke Inc,2020,0-18
+Duke LLC,2020,33-39
+Duke Ltd,2020,48-54
+Duncan Inc,2021,0-18
+Duncan PLC,2022,0-18
+Dunlap Group,2020,0-18
+Dunn LLC,2020,19-25
+Dunn LLC,2021,26-32
+Dunn Ltd,2021,48-54
+Dunn PLC,2020,55-61
+Dunn and Sons,2021,0-18
+Duran Inc,2020,70+
+Duran Ltd,2021,40-47
+Durham LLC,2020,19-25
+Durham Ltd,2020,0-18
+Durham Ltd,2021,33-39
+Durham Ltd,2022,19-25
+Durham and Sons,2021,70+
+Dyer Group,2020,33-39
+Dyer Inc,2020,26-32
+Dyer Ltd,2020,62-69
+Dyer Ltd,2021,62-69
+Eaton PLC,2020,48-54
+Eaton PLC,2021,19-25
+Eaton and Sons,2021,26-32
+Eaton-Turner,2021,70+
+Edwards LLC,2021,0-18
+Edwards Ltd,2020,55-61
+Elliott Group,2022,62-69
+Elliott LLC,2020,70+
+Elliott Ltd,2021,0-18
+Elliott PLC,2022,62-69
+Ellis Group,2020,70+
+Ellis Group,2021,40-47
+Ellison Inc,2020,33-39
+Ellison LLC,2020,70+
+Ellison and Sons,2020,"40-47, 62-69"
+Ellison and Sons,2021,33-39
+English LLC,2020,"0-18, 40-47"
+English PLC,2022,48-54
+English and Sons,2020,55-61
+English and Sons,2022,26-32
+Erickson Group,2021,0-18
+Erickson LLC,2022,19-25
+Esparza Group,2020,26-32
+Esparza Group,2021,0-18
+Esparza and Sons,2020,55-61
+Espinoza Inc,2021,33-39
+Espinoza PLC,2021,33-39
+Estes LLC,2020,48-54
+Estes and Sons,2022,0-18
+Estrada Inc,2020,62-69
+Estrada Ltd,2021,0-18
+Estrada PLC,2020,70+
+Evans Ltd,2020,"0-18, 62-69"
+Evans and Sons,2022,0-18
+Everett and Sons,2020,19-25
+Everett and Sons,2021,26-32
+Ewing Group,2021,40-47
+Ewing Group,2022,62-69
+Ewing Inc,2020,33-39
+Ewing LLC,2021,0-18
+Ewing Ltd,2022,40-47
+Ewing and Sons,2021,0-18
+Farley Group,2020,62-69
+Farley PLC,2021,33-39
+Farmer LLC,2022,55-61
+Farmer Ltd,2021,26-32
+Farmer PLC,2021,33-39
+Farrell LLC,2022,40-47
+Farrell Ltd,2021,62-69
+Faulkner Ltd,2021,19-25
+Faulkner and Sons,2020,0-18
+Ferguson Group,2020,40-47
+Fernandez Inc,2021,26-32
+Fernandez Inc,2022,26-32
+Ferrell Group,2021,70+
+Ferrell PLC,2020,33-39
+Fields-Mccullough,2021,33-39
+Figueroa Inc,2020,19-25
+Figueroa Inc,2022,40-47
+Figueroa Ltd,2021,62-69
+Finley Group,2020,19-25
+Finley Group,2021,55-61
+Finley LLC,2020,62-69
+Finley LLC,2021,0-18
+Finley PLC,2020,33-39
+Finley and Sons,2022,62-69
+Fischer LLC,2020,"0-18, 26-32"
+Fischer Ltd,2020,62-69
+Fischer and Sons,2022,0-18
+Fischer-Green,2020,33-39
+Fisher LLC,2020,33-39
+Fitzgerald Group,2020,70+
+Fitzgerald Inc,2022,62-69
+Fitzpatrick Inc,2020,48-54
+Fitzpatrick Ltd,2020,40-47
+Fitzpatrick Ltd,2021,"19-25, 62-69"
+Fitzpatrick Ltd,2022,55-61
+Fitzpatrick and Sons,2020,26-32
+Fleming Group,2021,19-25
+Fleming LLC,2021,19-25
+Fletcher PLC,2021,33-39
+Flores Inc,2021,33-39
+Flores LLC,2020,62-69
+Flores PLC,2020,33-39
+Flowers LLC,2022,62-69
+Flowers and Sons,2020,0-18
+Flowers and Sons,2021,70+
+Floyd Group,2020,55-61
+Floyd LLC,2020,40-47
+Floyd Ltd,2021,26-32
+Flynn Group,2021,0-18
+Flynn LLC,2021,0-18
+Flynn Ltd,2020,"19-25, 40-47"
+Foley and Sons,2022,55-61
+Forbes Inc,2022,33-39
+Forbes Ltd,2021,"55-61, 70+"
+Forbes and Sons,2021,0-18
+Ford Inc,2021,0-18
+Ford Inc,2022,26-32
+Ford LLC,2020,55-61
+Ford LLC,2021,70+
+Ford PLC,2021,48-54
+Foster and Sons,2020,26-32
+Foster and Sons,2021,70+
+Foster and Sons,2022,19-25
+Fowler Group,2021,55-61
+Fowler Ltd,2021,62-69
+Fowler PLC,2020,55-61
+Fox Group,2021,0-18
+Fox Inc,2020,19-25
+Fox Inc,2022,62-69
+Fox LLC,2021,55-61
+Fox Ltd,2020,19-25
+Fox PLC,2021,62-69
+Fox-Hayden,2021,26-32
+Francis Inc,2020,48-54
+Francis Inc,2022,26-32
+Francis LLC,2020,19-25
+Francis and Sons,2021,70+
+Franco Inc,2021,0-18
+Franco-Montes,2020,26-32
+Frank Group,2020,33-39
+Frank Inc,2022,26-32
+Frank LLC,2020,70+
+Frank LLC,2021,26-32
+Frank Ltd,2020,19-25
+Franklin Ltd,2022,19-25
+Franklin-Sexton,2020,48-54
+Frazier LLC,2021,55-61
+Frazier Ltd,2020,0-18
+Frazier Ltd,2021,"40-47, 48-54, 55-61"
+Frederick LLC,2021,62-69
+Freeman Inc,2022,33-39
+Freeman PLC,2022,40-47
+Frey Group,2020,55-61
+Frey LLC,2020,55-61
+Frey LLC,2022,40-47
+Friedman Ltd,2021,62-69
+Friedman-Kerr,2021,55-61
+Fritz Inc,2020,55-61
+Fritz Inc,2021,40-47
+Fritz LLC,2021,19-25
+Fritz Ltd,2022,62-69
+Fritz PLC,2020,62-69
+Frost Inc,2020,19-25
+Fry Inc,2020,40-47
+Fry Inc,2021,70+
+Fry LLC,2020,40-47
+Fry and Sons,2020,26-32
+Fuentes Group,2020,62-69
+Fuentes Group,2021,"0-18, 40-47"
+Fuentes Inc,2021,40-47
+Fuentes LLC,2020,0-18
+Fuentes PLC,2020,33-39
+Fuentes PLC,2021,48-54
+Fuentes and Sons,2021,26-32
+Fuller Group,2020,19-25
+Fuller Inc,2020,26-32
+Fuller Ltd,2020,19-25
+Fuller and Sons,2022,33-39
+Gaines-Holder,2021,0-18
+Gallagher Group,2020,26-32
+Gallagher LLC,2020,0-18
+Gallagher PLC,2022,40-47
+Gallegos Ltd,2020,33-39
+Galloway Group,2020,48-54
+Galloway and Sons,2020,40-47
+Galvan Group,2022,19-25
+Galvan Inc,2020,55-61
+Gamble Group,2020,70+
+Garcia Inc,2020,26-32
+Garcia LLC,2021,33-39
+Gardner LLC,2020,0-18
+Gardner Ltd,2020,0-18
+Gardner Ltd,2021,26-32
+Gardner PLC,2021,0-18
+Garner PLC,2020,62-69
+Garrett Inc,2021,0-18
+Garrett Inc,2022,33-39
+Garrett LLC,2021,"40-47, 62-69"
+Garrett Ltd,2022,70+
+Garrett and Sons,2020,0-18
+Garrison Group,2020,"19-25, 62-69"
+Garrison Inc,2020,"26-32, 33-39"
+Garrison LLC,2020,26-32
+Garrison and Sons,2020,"0-18, 19-25"
+Garza Group,2020,48-54
+Garza Inc,2020,48-54
+Garza LLC,2020,0-18
+Garza LLC,2021,55-61
+Garza Ltd,2021,26-32
+Garza PLC,2020,33-39
+Garza and Sons,2022,26-32
+Gates Group,2020,0-18
+Gates Inc,2022,0-18
+Gates PLC,2020,26-32
+Gates PLC,2021,55-61
+Gay Ltd,2020,70+
+Gay PLC,2022,19-25
+Gay and Sons,2020,19-25
+Gay and Sons,2021,40-47
+Gentry LLC,2020,0-18
+Gentry LLC,2021,26-32
+Gentry PLC,2021,40-47
+Gentry and Sons,2020,0-18
+Gentry and Sons,2021,0-18
+George Inc,2021,0-18
+George LLC,2020,0-18
+George and Sons,2021,33-39
+Gibbs Ltd,2020,55-61
+Gibbs Ltd,2021,26-32
+Gibbs and Sons,2020,40-47
+Gilbert Inc,2021,26-32
+Gilbert LLC,2021,40-47
+Giles LLC,2020,26-32
+Giles Ltd,2021,19-25
+Giles and Sons,2021,55-61
+Gill LLC,2021,55-61
+Gill PLC,2022,33-39
+Gillespie Group,2022,70+
+Gillespie Ltd,2020,48-54
+Gillespie and Sons,2020,70+
+Gilmore LLC,2020,26-32
+Glass PLC,2021,33-39
+Glass and Sons,2021,26-32
+Glass and Sons,2022,0-18
+Glover LLC,2021,55-61
+Glover Ltd,2021,26-32
+Golden LLC,2020,19-25
+Gomez Group,2020,62-69
+Gonzales Inc,2021,48-54
+Gonzales PLC,2022,55-61
+Gonzalez Group,2021,55-61
+Gonzalez PLC,2021,19-25
+Goodwin Inc,2020,19-25
+Goodwin Inc,2021,33-39
+Goodwin Inc,2022,0-18
+Goodwin LLC,2020,62-69
+Goodwin LLC,2021,40-47
+Goodwin-Shelton,2022,26-32
+Gordon Inc,2021,70+
+Gordon Ltd,2021,70+
+Gould Group,2021,48-54
+Gould PLC,2020,0-18
+Graham and Sons,2021,19-25
+Grant PLC,2020,33-39
+Graves Inc,2021,40-47
+Graves LLC,2021,33-39
+Graves Ltd,2021,"19-25, 62-69"
+Gray Group,2021,55-61
+Gray LLC,2021,55-61
+Gray Ltd,2022,40-47
+Greene PLC,2020,40-47
+Greene and Sons,2022,19-25
+Greer Group,2020,62-69
+Greer Inc,2021,40-47
+Greer LLC,2020,70+
+Gregory Group,2020,0-18
+Gregory Group,2021,48-54
+Gregory Group,2022,55-61
+Gregory LLC,2021,33-39
+Gregory Ltd,2020,70+
+Gregory and Sons,2020,19-25
+Griffin Ltd,2021,70+
+Griffin PLC,2021,"26-32, 33-39"
+Griffith Group,2021,"0-18, 40-47"
+Griffith LLC,2021,40-47
+Griffith Ltd,2021,55-61
+Griffith and Sons,2020,0-18
+Grimes LLC,2021,62-69
+Grimes Ltd,2021,0-18
+Grimes and Sons,2022,62-69
+Gross LLC,2021,26-32
+Guerra Inc,2020,26-32
+Guerra LLC,2020,0-18
+Guerra PLC,2021,70+
+Guerrero Group,2020,70+
+Guerrero Group,2021,0-18
+Guerrero LLC,2020,0-18
+Guerrero LLC,2021,33-39
+Gutierrez Group,2020,70+
+Gutierrez LLC,2021,55-61
+Gutierrez Ltd,2021,26-32
+Gutierrez PLC,2021,33-39
+Guzman Ltd,2020,70+
+Guzman PLC,2022,70+
+Haas Inc,2020,70+
+Haas Inc,2022,40-47
+Haas Ltd,2020,26-32
+Haas PLC,2020,"26-32, 70+"
+Haas-Hoover,2021,40-47
+Hahn and Sons,2021,0-18
+Hale LLC,2021,62-69
+Hale LLC,2022,19-25
+Hale PLC,2022,"48-54, 62-69"
+Haley Group,2021,33-39
+Haley Inc,2021,70+
+Haley PLC,2020,"0-18, 26-32"
+Haley PLC,2022,55-61
+Haley and Sons,2021,19-25
+Hamilton LLC,2020,40-47
+Hamilton Ltd,2020,55-61
+Hammond PLC,2021,55-61
+Hammond and Sons,2020,0-18
+Hampton Inc,2022,33-39
+Hampton Ltd,2021,0-18
+Hampton PLC,2021,33-39
+Hampton-Townsend,2020,0-18
+Hancock Group,2020,26-32
+Hancock Inc,2022,"40-47, 48-54"
+Haney Group,2020,"55-61, 70+"
+Haney and Sons,2020,55-61
+Hanna Ltd,2020,"19-25, 48-54"
+Hansen Group,2020,0-18
+Hansen and Sons,2022,0-18
+Hanson Inc,2020,55-61
+Hanson PLC,2020,48-54
+Hanson and Sons,2021,40-47
+Hardin Ltd,2021,"40-47, 62-69"
+Harding and Sons,2022,62-69
+Hardy Ltd,2020,0-18
+Harmon Group,2020,55-61
+Harmon LLC,2021,55-61
+Harmon PLC,2021,26-32
+Harper Group,2020,"26-32, 33-39"
+Harper Inc,2021,55-61
+Harper LLC,2021,55-61
+Harper PLC,2020,"55-61, 62-69"
+Harrell Group,2022,33-39
+Harrell Inc,2021,0-18
+Harrell Inc,2022,33-39
+Harrell Ltd,2021,62-69
+Harrington Group,2020,40-47
+Harrington Inc,2020,26-32
+Harrington Inc,2021,70+
+Harris Inc,2021,19-25
+Harris Ltd,2021,70+
+Harrison LLC,2021,0-18
+Harrison and Sons,2020,55-61
+Hart Group,2020,33-39
+Hart Inc,2020,70+
+Hart Inc,2021,0-18
+Hart and Sons,2020,33-39
+Hartman Inc,2021,48-54
+Hartman LLC,2021,26-32
+Hartman and Sons,2020,33-39
+Hartman and Sons,2022,40-47
+Hatfield Group,2021,26-32
+Hatfield Inc,2022,48-54
+Hatfield Ltd,2021,19-25
+Hatfield PLC,2021,55-61
+Hawkins PLC,2021,55-61
+Hayden Inc,2020,70+
+Hayden LLC,2021,55-61
+Hayden Ltd,2020,19-25
+Hayes Group,2022,33-39
+Hayes Inc,2020,0-18
+Hayes LLC,2022,0-18
+Hayes Ltd,2021,33-39
+Haynes Group,2020,0-18
+Haynes LLC,2021,"0-18, 40-47"
+Haynes Ltd,2020,48-54
+Haynes PLC,2021,70+
+Hays Group,2021,40-47
+Hays PLC,2020,26-32
+Hays-Fields,2022,62-69
+Hays-Gay,2021,55-61
+Hays-Haley,2022,33-39
+Heath Group,2020,26-32
+Heath and Sons,2020,0-18
+Hebert LLC,2020,40-47
+Hebert Ltd,2021,0-18
+Henderson Inc,2021,55-61
+Hendricks PLC,2021,55-61
+Hendrix LLC,2020,70+
+Hendrix PLC,2021,"19-25, 48-54"
+Hendrix and Sons,2020,19-25
+Henry LLC,2020,33-39
+Henry PLC,2020,62-69
+Hensley LLC,2020,"19-25, 33-39"
+Hensley and Sons,2022,0-18
+Henson LLC,2021,0-18
+Henson PLC,2020,70+
+Herman Group,2021,62-69
+Herman Inc,2021,48-54
+Herman and Sons,2021,19-25
+Hernandez Group,2022,19-25
+Hernandez PLC,2020,70+
+Herrera and Sons,2021,33-39
+Herrera and Sons,2022,48-54
+Herring Inc,2021,62-69
+Hess Inc,2020,0-18
+Hess PLC,2021,40-47
+Hester Inc,2020,70+
+Hester and Sons,2022,0-18
+Hickman Inc,2020,19-25
+Hickman Ltd,2020,"0-18, 40-47"
+Hickman-Gill,2021,0-18
+Hicks LLC,2020,70+
+Hicks and Sons,2020,0-18
+Higgins LLC,2020,0-18
+Higgins Ltd,2020,48-54
+Higgins-Avery,2020,33-39
+Higgins-Hodge,2020,26-32
+Hill LLC,2020,62-69
+Hill LLC,2022,55-61
+Hill and Sons,2020,0-18
+Hill and Sons,2021,0-18
+Hines Inc,2021,70+
+Hines Ltd,2022,62-69
+Hines PLC,2021,55-61
+Hinton PLC,2020,"55-61, 62-69"
+Ho Inc,2021,62-69
+Ho PLC,2022,48-54
+Hobbs Ltd,2020,19-25
+Hodge Inc,2022,33-39
+Hodge PLC,2022,55-61
+Hoffman Group,2021,0-18
+Hoffman Group,2022,0-18
+Hogan LLC,2020,33-39
+Holden Inc,2020,55-61
+Holden LLC,2020,70+
+Holden and Sons,2021,70+
+Holder Ltd,2021,55-61
+Holder and Sons,2020,33-39
+Holder and Sons,2022,"0-18, 70+"
+Holland Ltd,2022,70+
+Holland PLC,2020,26-32
+Holloway Inc,2020,26-32
+Holmes Inc,2020,70+
+Holmes Inc,2022,33-39
+Holt Ltd,2020,19-25
+Holt PLC,2021,26-32
+Hood Group,2020,33-39
+Hood Group,2021,40-47
+Hood PLC,2020,26-32
+Hooper PLC,2020,0-18
+Hoover Inc,2022,62-69
+Hoover Ltd,2020,55-61
+Hoover Ltd,2022,48-54
+Hoover PLC,2021,26-32
+Hoover and Sons,2021,19-25
+Hoover-Walter,2020,0-18
+Hopkins LLC,2020,0-18
+Hopkins Ltd,2021,26-32
+Hopkins PLC,2020,55-61
+Horn LLC,2022,55-61
+Horn PLC,2020,0-18
+Horn and Sons,2020,70+
+Horne Inc,2020,"26-32, 62-69"
+Horne and Sons,2021,55-61
+Horton Group,2020,26-32
+Horton Group,2021,"26-32, 55-61"
+House LLC,2020,"40-47, 48-54"
+House Ltd,2020,0-18
+House Ltd,2021,70+
+Houston Inc,2020,62-69
+Houston Inc,2022,0-18
+Houston LLC,2022,0-18
+Houston and Sons,2021,19-25
+Howe Ltd,2020,33-39
+Howe and Sons,2020,70+
+Howell Group,2020,33-39
+Huang Group,2020,"0-18, 70+"
+Huang and Sons,2020,62-69
+Hubbard Group,2020,40-47
+Hubbard Group,2021,19-25
+Huber Inc,2020,19-25
+Huber Inc,2021,33-39
+Huber Ltd,2021,"0-18, 19-25"
+Huber PLC,2021,62-69
+Huber PLC,2022,"19-25, 40-47"
+Huerta Inc,2021,33-39
+Huerta LLC,2021,19-25
+Huerta and Sons,2020,48-54
+Huff Inc,2020,55-61
+Huff Ltd,2021,62-69
+Huffman Inc,2020,0-18
+Huffman LLC,2020,19-25
+Huffman Ltd,2021,70+
+Hughes Group,2021,70+
+Hughes Inc,2020,"48-54, 70+"
+Hughes Inc,2021,26-32
+Hughes Ltd,2022,40-47
+Hughes and Sons,2020,33-39
+Hull and Sons,2020,40-47
+Humphrey LLC,2020,19-25
+Hunt Group,2021,"48-54, 62-69"
+Hunt Group,2022,55-61
+Hunt Inc,2020,70+
+Hunt PLC,2020,55-61
+Hunt PLC,2021,0-18
+Hunt and Sons,2020,70+
+Hunt and Sons,2021,19-25
+Hurley Inc,2020,19-25
+Hurley LLC,2022,26-32
+Hurley Ltd,2020,0-18
+Hurley PLC,2021,19-25
+Hutchinson Inc,2022,48-54
+Hutchinson LLC,2021,70+
+Hutchinson PLC,2021,0-18
+Hutchinson and Sons,2021,62-69
+Huynh LLC,2020,55-61
+Huynh PLC,2022,0-18
+Huynh and Sons,2022,26-32
+Ibarra Group,2020,"40-47, 48-54"
+Ibarra LLC,2020,40-47
+Ibarra LLC,2021,33-39
+Ibarra Ltd,2020,55-61
+Ibarra Ltd,2021,48-54
+Ingram Group,2020,48-54
+Ingram Inc,2022,48-54
+Ingram LLC,2022,48-54
+Ingram PLC,2021,19-25
+Irwin Group,2021,62-69
+Irwin Ltd,2022,70+
+Irwin and Sons,2021,0-18
+Jackson Inc,2021,70+
+Jackson Ltd,2020,40-47
+Jackson Ltd,2021,0-18
+Jacobs Inc,2020,19-25
+Jacobs LLC,2022,40-47
+Jacobs PLC,2020,48-54
+Jacobs and Sons,2021,"19-25, 55-61"
+Jacobson PLC,2021,"19-25, 26-32"
+Jacobson PLC,2022,55-61
+James Group,2020,0-18
+James Group,2021,33-39
+Jarvis Inc,2020,55-61
+Jefferson Group,2020,26-32
+Jefferson Inc,2021,26-32
+Jefferson LLC,2020,55-61
+Jefferson and Sons,2020,0-18
+Jennings Group,2021,"0-18, 70+"
+Jennings and Sons,2020,33-39
+Jensen Ltd,2021,0-18
+Jimenez Group,2021,62-69
+Jimenez Inc,2021,"19-25, 40-47"
+Jimenez Inc,2022,48-54
+Jimenez-Marks,2020,26-32
+Johns Ltd,2020,33-39
+Johnson Inc,2020,48-54
+Johnson and Sons,2020,0-18
+Johnston LLC,2020,40-47
+Jones and Sons,2020,55-61
+Jones and Sons,2022,"55-61, 70+"
+Joseph Inc,2021,26-32
+Joseph PLC,2021,55-61
+Juarez LLC,2021,62-69
+Juarez Ltd,2020,40-47
+Juarez and Sons,2021,33-39
+Kaiser Group,2020,19-25
+Kaiser Inc,2021,48-54
+Kaiser LLC,2021,40-47
+Kaiser and Sons,2020,"40-47, 62-69"
+Kane Inc,2022,70+
+Kane LLC,2020,33-39
+Kane PLC,2020,0-18
+Kaufman Inc,2021,0-18
+Kaufman LLC,2021,26-32
+Kaufman Ltd,2021,26-32
+Kaufman PLC,2020,"19-25, 48-54"
+Kaufman and Sons,2020,48-54
+Keith Group,2020,33-39
+Keith Inc,2020,48-54
+Keith PLC,2020,62-69
+Keith-Vaughn,2022,0-18
+Keller Inc,2020,0-18
+Keller Inc,2021,33-39
+Keller Ltd,2020,70+
+Kelley LLC,2020,48-54
+Kelley LLC,2021,70+
+Kelly LLC,2022,19-25
+Kelly Ltd,2020,33-39
+Kelly PLC,2021,19-25
+Kemp Group,2021,26-32
+Kemp LLC,2021,19-25
+Kemp Ltd,2020,70+
+Kemp Ltd,2022,33-39
+Kemp PLC,2020,0-18
+Kemp and Sons,2021,26-32
+Kennedy Inc,2020,33-39
+Kennedy Inc,2021,0-18
+Kennedy PLC,2020,70+
+Kennedy PLC,2021,19-25
+Kennedy and Sons,2020,19-25
+Kent Ltd,2021,55-61
+Kerr Group,2020,"26-32, 70+"
+Key Inc,2021,40-47
+Key PLC,2020,55-61
+Key PLC,2021,70+
+Key and Sons,2020,"0-18, 62-69"
+Khan Inc,2022,62-69
+Khan PLC,2020,0-18
+Kidd Inc,2020,48-54
+Kidd Ltd,2020,70+
+Kim LLC,2020,26-32
+Kim Ltd,2020,55-61
+Kim and Sons,2020,33-39
+King Inc,2020,48-54
+Kirby-Castaneda,2020,26-32
+Kirk Inc,2021,0-18
+Kirk and Sons,2020,"26-32, 55-61"
+Klein LLC,2020,48-54
+Klein Ltd,2020,48-54
+Klein PLC,2021,0-18
+Kline Group,2020,33-39
+Knapp Group,2020,55-61
+Knapp Ltd,2022,62-69
+Knapp and Sons,2021,33-39
+Knight LLC,2020,26-32
+Knight Ltd,2021,48-54
+Knight PLC,2020,55-61
+Knight PLC,2021,70+
+Knox Group,2020,26-32
+Koch and Sons,2021,62-69
+Kramer Group,2020,48-54
+Kramer Inc,2020,62-69
+Kramer Ltd,2020,26-32
+Kramer Ltd,2022,0-18
+Krause Inc,2021,0-18
+Krause-Shah,2022,26-32
+Krueger Inc,2020,40-47
+Krueger LLC,2020,55-61
+Krueger LLC,2022,48-54
+Krueger Ltd,2021,48-54
+Krueger Ltd,2022,33-39
+Krueger and Sons,2020,0-18
+Krueger and Sons,2022,70+
+Lam Group,2022,55-61
+Lam LLC,2021,0-18
+Lam and Sons,2020,48-54
+Lamb PLC,2021,40-47
+Lamb PLC,2022,0-18
+Lambert Group,2020,40-47
+Lambert Group,2022,19-25
+Lambert Ltd,2021,62-69
+Lambert PLC,2022,33-39
+Lambert and Sons,2021,"0-18, 62-69"
+Lambert and Sons,2022,33-39
+Landry Group,2021,33-39
+Landry Inc,2021,70+
+Landry PLC,2020,"48-54, 55-61"
+Landry PLC,2021,0-18
+Lane Inc,2021,62-69
+Lane Ltd,2022,62-69
+Lane PLC,2021,0-18
+Lang Inc,2022,62-69
+Lang Ltd,2020,19-25
+Lara Group,2021,40-47
+Larsen PLC,2022,55-61
+Larsen and Sons,2020,62-69
+Larson Group,2020,70+
+Larson Inc,2022,26-32
+Larson and Sons,2021,26-32
+Lawrence Group,2021,70+
+Lawrence Inc,2021,62-69
+Lawrence PLC,2020,0-18
+Lawson Inc,2021,"19-25, 55-61"
+Lawson PLC,2020,70+
+Lawson PLC,2021,0-18
+Lawson PLC,2022,40-47
+Lawson and Sons,2020,0-18
+Lawson and Sons,2021,19-25
+Lawson and Sons,2022,40-47
+Le Group,2022,48-54
+Le Ltd,2021,70+
+Le and Sons,2021,"0-18, 26-32"
+Leach Inc,2022,33-39
+Leach LLC,2021,70+
+Leach Ltd,2020,70+
+Leblanc Group,2020,48-54
+Leblanc LLC,2020,48-54
+Leblanc PLC,2021,48-54
+Leblanc and Sons,2021,70+
+Lee LLC,2020,55-61
+Lee and Sons,2020,70+
+Lee and Sons,2021,0-18
+Leonard PLC,2020,0-18
+Lester Group,2020,"40-47, 62-69"
+Lester Inc,2020,40-47
+Lester LLC,2021,48-54
+Levine Inc,2021,48-54
+Levine and Sons,2021,40-47
+Levy Group,2022,70+
+Levy LLC,2021,40-47
+Levy Ltd,2020,0-18
+Levy PLC,2020,48-54
+Levy and Sons,2020,0-18
+Levy and Sons,2021,62-69
+Lewis Group,2020,48-54
+Lewis Ltd,2020,48-54
+Lewis Ltd,2022,26-32
+Lewis PLC,2021,19-25
+Lewis and Sons,2020,19-25
+Lewis and Sons,2021,0-18
+Li LLC,2020,62-69
+Li PLC,2022,48-54
+Lin LLC,2020,19-25
+Lin PLC,2021,40-47
+Lin and Sons,2020,33-39
+Lindsey Group,2020,33-39
+Lindsey Ltd,2020,70+
+Lindsey Ltd,2021,55-61
+Lindsey Ltd,2022,70+
+Little Group,2020,33-39
+Little Ltd,2020,19-25
+Little and Sons,2021,26-32
+Little and Sons,2022,"26-32, 62-69"
+Liu Group,2020,0-18
+Liu Ltd,2020,19-25
+Liu Ltd,2021,48-54
+Livingston LLC,2021,62-69
+Livingston Ltd,2020,70+
+Livingston and Sons,2020,40-47
+Lloyd Group,2020,0-18
+Lloyd LLC,2021,0-18
+Logan Inc,2020,40-47
+Long Inc,2020,62-69
+Long LLC,2020,0-18
+Long Ltd,2020,55-61
+Lopez Inc,2021,0-18
+Love and Sons,2020,55-61
+Lowe Inc,2020,"0-18, 62-69"
+Lowe Ltd,2020,19-25
+Lowery Group,2022,40-47
+Lowery Inc,2022,62-69
+Lowery PLC,2021,26-32
+Lozano Inc,2020,0-18
+Lozano and Sons,2021,70+
+Lucas Group,2021,40-47
+Lucas LLC,2020,62-69
+Lucero Inc,2020,0-18
+Lucero Inc,2021,0-18
+Luna PLC,2021,0-18
+Luna and Sons,2021,0-18
+Lutz Group,2021,0-18
+Lutz and Sons,2020,70+
+Lutz and Sons,2021,26-32
+Lynch Inc,2021,62-69
+Lynch PLC,2020,0-18
+Lynch and Sons,2022,40-47
+Lynn Inc,2022,55-61
+Lynn LLC,2020,55-61
+Lynn PLC,2021,33-39
+Lynn and Sons,2020,62-69
+Lyons Inc,2020,33-39
+Lyons Ltd,2021,40-47
+Macdonald Group,2021,"0-18, 55-61"
+Macdonald LLC,2021,33-39
+Macdonald and Sons,2020,0-18
+Macdonald-Daugherty,2020,19-25
+Macias Group,2020,"48-54, 55-61"
+Macias Group,2022,62-69
+Macias LLC,2020,0-18
+Macias LLC,2021,26-32
+Mack Ltd,2022,48-54
+Mack and Sons,2020,55-61
+Madden LLC,2021,26-32
+Maddox Group,2020,0-18
+Maddox LLC,2020,70+
+Maddox and Sons,2020,70+
+Maddox-Poole,2022,70+
+Mahoney Group,2021,26-32
+Mahoney Ltd,2021,19-25
+Mahoney and Sons,2021,33-39
+Maldonado Inc,2021,26-32
+Maldonado Ltd,2020,0-18
+Maldonado Ltd,2022,48-54
+Mann and Sons,2020,19-25
+Manning Inc,2020,48-54
+Manning Inc,2021,48-54
+Manning LLC,2020,26-32
+Manning PLC,2021,33-39
+Marks Group,2022,62-69
+Marks Ltd,2020,70+
+Marquez Group,2020,26-32
+Marquez LLC,2021,48-54
+Marquez and Sons,2021,19-25
+Marsh Group,2021,70+
+Marsh Inc,2021,26-32
+Marsh Ltd,2020,48-54
+Marshall Inc,2021,62-69
+Marshall LLC,2021,33-39
+Martin LLC,2022,48-54
+Martinez Group,2022,62-69
+Martinez LLC,2020,55-61
+Martinez Ltd,2022,70+
+Mason Group,2021,48-54
+Mason Inc,2020,0-18
+Mason LLC,2021,33-39
+Mason Ltd,2021,"62-69, 70+"
+Massey Group,2020,19-25
+Massey LLC,2021,19-25
+Massey Ltd,2021,70+
+Massey PLC,2020,26-32
+Mata LLC,2020,48-54
+Mata Ltd,2020,48-54
+Mata Ltd,2021,48-54
+Mata PLC,2021,19-25
+Mathews Inc,2021,"0-18, 26-32"
+Mathews Ltd,2020,0-18
+Mathis LLC,2020,0-18
+Mathis and Sons,2021,48-54
+Mathis and Sons,2022,0-18
+Matthews Group,2020,0-18
+Matthews Ltd,2020,19-25
+Matthews PLC,2021,0-18
+Maxwell Inc,2021,26-32
+May Inc,2020,48-54
+May LLC,2021,48-54
+May Ltd,2021,62-69
+May PLC,2021,70+
+May and Sons,2020,26-32
+Mayer Inc,2020,62-69
+Mayer Inc,2021,26-32
+Mayer LLC,2020,19-25
+Mayer Ltd,2021,"26-32, 33-39"
+Mayer and Sons,2020,62-69
+Maynard Group,2020,48-54
+Maynard LLC,2021,70+
+Mayo Group,2020,40-47
+Mayo PLC,2020,19-25
+Mayo PLC,2021,55-61
+Mayo PLC,2022,40-47
+Mayo and Sons,2021,62-69
+Mays Inc,2020,19-25
+Mays LLC,2020,19-25
+Mays LLC,2021,0-18
+Mays LLC,2022,70+
+Mays Ltd,2021,48-54
+Mays and Sons,2020,"0-18, 26-32"
+Mcbride Group,2020,55-61
+Mcbride-Hayden,2020,40-47
+Mcbride-Hudson,2020,19-25
+Mccall Group,2020,33-39
+Mccall Inc,2021,26-32
+Mccall LLC,2020,0-18
+Mccall Ltd,2022,62-69
+Mccann LLC,2022,0-18
+Mccann PLC,2021,62-69
+Mcclain LLC,2020,0-18
+Mcclain and Sons,2022,26-32
+Mcclure Group,2021,70+
+Mcclure LLC,2021,62-69
+Mcclure PLC,2022,48-54
+Mcclure and Sons,2021,48-54
+Mcconnell LLC,2020,19-25
+Mccormick LLC,2020,62-69
+Mccormick PLC,2020,0-18
+Mccormick and Sons,2022,70+
+Mccoy Group,2021,62-69
+Mccoy Inc,2020,26-32
+Mccoy Inc,2021,"26-32, 55-61"
+Mccoy PLC,2021,26-32
+Mccoy and Sons,2020,0-18
+Mccoy and Sons,2021,70+
+Mccullough PLC,2022,0-18
+Mcdaniel Ltd,2021,0-18
+Mcdaniel PLC,2020,33-39
+Mcdonald Group,2020,48-54
+Mcdonald LLC,2020,70+
+Mcdonald LLC,2021,0-18
+Mcdonald and Sons,2020,"48-54, 55-61"
+Mcdowell Group,2022,55-61
+Mcdowell Inc,2020,26-32
+Mcdowell Inc,2021,33-39
+Mcdowell LLC,2021,48-54
+Mcdowell Ltd,2021,48-54
+Mcdowell PLC,2022,19-25
+Mcgee Group,2022,70+
+Mcgee Inc,2021,19-25
+Mcgee Ltd,2020,55-61
+Mcgee PLC,2021,40-47
+Mcgee PLC,2022,62-69
+Mcgrath Group,2020,"62-69, 70+"
+Mcguire Group,2020,"0-18, 62-69"
+Mcguire LLC,2021,55-61
+Mcguire Ltd,2021,19-25
+Mcguire PLC,2020,"26-32, 40-47"
+Mcguire PLC,2022,48-54
+Mcguire and Sons,2020,40-47
+Mcguire and Sons,2022,26-32
+Mcintosh Group,2020,40-47
+Mcintosh PLC,2020,62-69
+Mcintosh PLC,2021,40-47
+Mcintosh PLC,2022,70+
+Mcintosh and Sons,2021,48-54
+Mcintyre Inc,2020,0-18
+Mcintyre LLC,2020,55-61
+Mckay Inc,2022,40-47
+Mckay LLC,2020,62-69
+Mckay PLC,2022,0-18
+Mckenzie Inc,2020,33-39
+Mckenzie PLC,2021,62-69
+Mckenzie PLC,2022,55-61
+Mckinney Inc,2021,19-25
+Mckinney LLC,2020,55-61
+Mckinney PLC,2021,62-69
+Mckinney PLC,2022,33-39
+Mcknight LLC,2021,33-39
+Mclaughlin Group,2020,"0-18, 62-69"
+Mclean Group,2020,40-47
+Mclean Group,2021,33-39
+Mclean LLC,2021,"33-39, 55-61"
+Mcmahon Group,2022,40-47
+Mcmahon Ltd,2022,33-39
+Mcmillan PLC,2021,0-18
+Mcneil Group,2020,48-54
+Mcneil Group,2021,26-32
+Mcneil Ltd,2020,26-32
+Mcneil Ltd,2021,40-47
+Mcpherson Group,2020,48-54
+Mcpherson Inc,2021,48-54
+Mcpherson LLC,2022,48-54
+Meadows Ltd,2021,62-69
+Medina Group,2020,48-54
+Medina Inc,2021,19-25
+Medina Inc,2022,19-25
+Medina Ltd,2020,55-61
+Medina Ltd,2021,26-32
+Mejia LLC,2021,19-25
+Melendez Inc,2020,0-18
+Melendez Ltd,2020,26-32
+Melendez PLC,2020,48-54
+Melton Ltd,2022,70+
+Melton PLC,2021,55-61
+Mendez Group,2020,0-18
+Mendez LLC,2020,40-47
+Mendez Ltd,2020,40-47
+Mendoza Ltd,2020,19-25
+Mendoza Ltd,2021,40-47
+Mendoza PLC,2020,0-18
+Mendoza PLC,2022,48-54
+Mercado LLC,2022,70+
+Mercado and Sons,2022,48-54
+Mercer Ltd,2020,26-32
+Mercer and Sons,2021,62-69
+Merritt Group,2021,55-61
+Merritt LLC,2020,40-47
+Merritt Ltd,2021,62-69
+Meyer and Sons,2020,"0-18, 70+"
+Meyers Group,2021,33-39
+Meyers Ltd,2022,0-18
+Meyers PLC,2020,48-54
+Meyers PLC,2021,"48-54, 62-69"
+Meyers and Sons,2021,62-69
+Meza LLC,2020,0-18
+Meza Ltd,2022,33-39
+Michael Inc,2020,33-39
+Michael LLC,2021,0-18
+Michael Ltd,2021,0-18
+Middleton LLC,2020,26-32
+Middleton LLC,2021,0-18
+Middleton Ltd,2020,19-25
+Middleton PLC,2020,0-18
+Middleton and Sons,2021,48-54
+Miles Group,2021,0-18
+Miles LLC,2021,0-18
+Miles Ltd,2020,"19-25, 33-39"
+Miller LLC,2021,40-47
+Miller LLC,2022,0-18
+Miller Ltd,2020,0-18
+Miller Ltd,2021,26-32
+Mills Group,2021,40-47
+Mills and Sons,2021,55-61
+Miranda LLC,2020,0-18
+Mitchell LLC,2020,70+
+Mitchell and Sons,2021,62-69
+Molina Group,2022,19-25
+Molina LLC,2020,40-47
+Molina PLC,2020,62-69
+Molina PLC,2022,55-61
+Molina and Sons,2020,55-61
+Molina and Sons,2021,70+
+Montes Group,2021,70+
+Montes LLC,2020,19-25
+Montes LLC,2022,70+
+Montgomery Group,2020,33-39
+Montgomery LLC,2020,40-47
+Montgomery LLC,2022,"48-54, 55-61"
+Montgomery Ltd,2021,70+
+Montoya Inc,2021,0-18
+Montoya LLC,2020,19-25
+Montoya-Finley,2021,33-39
+Moody Ltd,2020,"19-25, 62-69"
+Moon Inc,2021,0-18
+Moon Ltd,2020,48-54
+Moon PLC,2020,26-32
+Moon and Sons,2021,19-25
+Moon and Sons,2022,19-25
+Mooney LLC,2021,55-61
+Mooney and Sons,2022,0-18
+Moore Group,2021,70+
+Moore Inc,2021,40-47
+Moore PLC,2020,40-47
+Moore PLC,2021,48-54
+Moore and Sons,2021,62-69
+Mora Group,2020,0-18
+Mora Ltd,2020,"33-39, 55-61"
+Mora and Sons,2020,33-39
+Mora and Sons,2021,33-39
+Morales Inc,2022,19-25
+Moran Group,2020,26-32
+Moran Inc,2022,48-54
+Moreno Group,2020,"0-18, 26-32"
+Moreno Group,2022,19-25
+Moreno LLC,2022,62-69
+Morgan Group,2020,40-47
+Morgan PLC,2021,0-18
+Morgan PLC,2022,26-32
+Morgan-Allen,2020,55-61
+Morris Group,2022,62-69
+Morris LLC,2020,26-32
+Morris PLC,2021,19-25
+Morris and Sons,2021,55-61
+Morrow LLC,2022,19-25
+Morrow Ltd,2021,26-32
+Morse Inc,2020,0-18
+Morse-Ortiz,2021,0-18
+Morton LLC,2020,62-69
+Morton Ltd,2020,55-61
+Morton Ltd,2021,40-47
+Morton and Sons,2021,48-54
+Moses Inc,2020,26-32
+Moses PLC,2021,70+
+Mosley LLC,2021,0-18
+Moss LLC,2021,0-18
+Moyer Inc,2021,48-54
+Moyer LLC,2020,26-32
+Moyer LLC,2022,70+
+Moyer PLC,2021,33-39
+Moyer and Sons,2021,48-54
+Mueller Ltd,2021,0-18
+Mullen LLC,2021,19-25
+Mullen and Sons,2020,0-18
+Mullen and Sons,2021,0-18
+Mullins Ltd,2020,19-25
+Mullins PLC,2021,48-54
+Mullins and Sons,2020,70+
+Munoz Ltd,2020,33-39
+Murillo Group,2020,0-18
+Murillo Inc,2021,33-39
+Murillo Inc,2022,0-18
+Murillo LLC,2021,33-39
+Murillo Ltd,2020,0-18
+Murillo-Ayala,2021,70+
+Murphy Group,2020,55-61
+Murphy Group,2021,19-25
+Murphy Inc,2020,48-54
+Murphy LLC,2021,19-25
+Murphy Ltd,2020,19-25
+Murphy-Cross,2021,26-32
+Murray PLC,2020,"33-39, 40-47"
+Myers Group,2021,33-39
+Nash LLC,2022,26-32
+Nash PLC,2021,62-69
+Navarro Group,2022,26-32
+Navarro PLC,2020,48-54
+Navarro and Sons,2020,48-54
+Neal Group,2022,40-47
+Neal Inc,2021,48-54
+Neal PLC,2020,0-18
+Neal PLC,2021,26-32
+Nelson Group,2021,26-32
+Nelson and Sons,2020,"0-18, 55-61"
+Newman Inc,2020,40-47
+Newman Ltd,2022,0-18
+Newman PLC,2022,0-18
+Newman and Sons,2022,19-25
+Newton PLC,2021,62-69
+Newton and Sons,2021,26-32
+Nguyen LLC,2021,55-61
+Nguyen Ltd,2020,26-32
+Nguyen and Sons,2020,0-18
+Nichols Inc,2020,19-25
+Nichols Ltd,2021,0-18
+Nichols PLC,2021,0-18
+Nichols and Sons,2020,0-18
+Nicholson Inc,2020,62-69
+Nicholson and Sons,2020,33-39
+Nicholson and Sons,2021,55-61
+Nielsen Group,2021,55-61
+Nielsen Inc,2020,33-39
+Nielsen Ltd,2021,0-18
+Nielsen and Sons,2021,48-54
+Nixon Group,2021,70+
+Nixon Ltd,2021,33-39
+Noble Group,2020,19-25
+Nolan Group,2020,"0-18, 48-54, 55-61"
+Nolan Inc,2021,0-18
+Nolan LLC,2020,0-18
+Nolan LLC,2022,"19-25, 33-39"
+Nolan PLC,2020,26-32
+Nolan-Moon,2020,33-39
+Norman Group,2020,48-54
+Norman and Sons,2022,55-61
+Norris Group,2020,55-61
+Norris and Sons,2021,0-18
+Norton Group,2020,33-39
+Norton Inc,2022,19-25
+Norton LLC,2022,33-39
+Novak Ltd,2022,0-18
+Novak and Sons,2021,"40-47, 48-54"
+Nunez Group,2022,70+
+Nunez Inc,2020,0-18
+Nunez LLC,2021,55-61
+Nunez Ltd,2022,62-69
+Nunez PLC,2020,40-47
+Nunez and Sons,2021,40-47
+Obrien Inc,2020,26-32
+Obrien Ltd,2021,"0-18, 62-69"
+Obrien PLC,2021,"19-25, 40-47"
+Obrien-Wolfe,2020,48-54
+Ochoa Group,2020,0-18
+Ochoa Inc,2020,40-47
+Ochoa Inc,2021,33-39
+Ochoa LLC,2021,"40-47, 70+"
+Ochoa PLC,2021,70+
+Ochoa and Sons,2020,19-25
+Oconnell Group,2020,48-54
+Oconnell Inc,2020,33-39
+Oconnell Ltd,2020,55-61
+Oconnell Ltd,2021,62-69
+Oconnell PLC,2022,0-18
+Oconnell and Sons,2020,70+
+Oconnell and Sons,2021,48-54
+Oconnell-Phillips,2021,62-69
+Oconnor Ltd,2020,62-69
+Oconnor PLC,2021,0-18
+Oconnor PLC,2022,26-32
+Odom Group,2020,33-39
+Odom Group,2021,33-39
+Odom Inc,2020,0-18
+Odom Ltd,2020,0-18
+Odom Ltd,2021,62-69
+Odom and Sons,2022,62-69
+Odonnell and Sons,2020,0-18
+Oliver Group,2021,19-25
+Oliver LLC,2020,48-54
+Oliver PLC,2020,62-69
+Olsen PLC,2020,0-18
+Olson Inc,2020,62-69
+Olson Ltd,2020,70+
+Olson Ltd,2021,"62-69, 70+"
+Oneal and Sons,2021,62-69
+Oneill Group,2020,19-25
+Oneill PLC,2020,19-25
+Oneill and Sons,2021,0-18
+Oneill-Greer,2022,40-47
+Orozco PLC,2020,40-47
+Orr Inc,2020,0-18
+Orr PLC,2021,70+
+Orr-Henry,2021,0-18
+Ortega Inc,2020,26-32
+Ortega PLC,2022,33-39
+Ortiz LLC,2022,62-69
+Ortiz and Sons,2020,33-39
+Osborn Inc,2021,62-69
+Osborn LLC,2021,70+
+Osborn and Sons,2020,"26-32, 55-61"
+Osborne Group,2020,19-25
+Osborne Inc,2020,62-69
+Osborne PLC,2020,40-47
+Osborne PLC,2021,70+
+Osborne and Sons,2020,40-47
+Osborne and Sons,2022,55-61
+Owen PLC,2020,0-18
+Owens Group,2020,26-32
+Owens Inc,2022,33-39
+Owens PLC,2022,48-54
+Owens and Sons,2022,70+
+Pacheco Group,2020,"33-39, 62-69"
+Pacheco PLC,2020,40-47
+Pacheco PLC,2021,19-25
+Padilla PLC,2020,70+
+Page Group,2021,48-54
+Palmer LLC,2020,70+
+Park Group,2021,55-61
+Park LLC,2020,70+
+Park PLC,2020,33-39
+Park and Sons,2020,40-47
+Parker Group,2022,0-18
+Parker Inc,2020,55-61
+Parker PLC,2021,70+
+Parrish Inc,2020,62-69
+Parrish Ltd,2021,0-18
+Parrish and Sons,2021,0-18
+Parsons Inc,2020,62-69
+Parsons PLC,2021,"33-39, 55-61"
+Parsons and Sons,2022,0-18
+Patel LLC,2021,"0-18, 26-32"
+Patrick Ltd,2022,0-18
+Patterson Group,2020,55-61
+Patterson LLC,2021,70+
+Patterson Ltd,2020,0-18
+Patterson PLC,2021,70+
+Patton LLC,2021,26-32
+Paul Inc,2020,"0-18, 40-47"
+Paul LLC,2020,62-69
+Payne LLC,2020,55-61
+Payne PLC,2021,19-25
+Payne and Sons,2020,62-69
+Payne and Sons,2021,0-18
+Pearson LLC,2020,0-18
+Pearson Ltd,2020,48-54
+Pearson Ltd,2021,19-25
+Pearson and Sons,2020,55-61
+Peck LLC,2021,26-32
+Peck Ltd,2021,70+
+Pena Ltd,2020,62-69
+Pena Ltd,2021,70+
+Pena PLC,2020,48-54
+Pena and Sons,2020,26-32
+Pena-Noble,2020,33-39
+Pennington Inc,2021,0-18
+Perez Inc,2021,19-25
+Perez Inc,2022,40-47
+Perez Ltd,2022,40-47
+Perez PLC,2020,55-61
+Perkins LLC,2020,55-61
+Perkins PLC,2020,33-39
+Perkins PLC,2022,62-69
+Perry PLC,2021,40-47
+Peters Inc,2021,19-25
+Peters Inc,2022,0-18
+Peters PLC,2020,70+
+Petersen Ltd,2021,62-69
+Peterson Group,2020,0-18
+Peterson Group,2021,"0-18, 33-39"
+Peterson Group,2022,19-25
+Peterson Inc,2020,48-54
+Peterson LLC,2020,0-18
+Peterson Ltd,2020,19-25
+Peterson and Sons,2020,0-18
+Peterson and Sons,2022,62-69
+Petty Group,2020,0-18
+Pham Group,2022,26-32
+Pham Ltd,2022,0-18
+Pham PLC,2021,70+
+Phelps and Sons,2020,62-69
+Phillips Group,2021,0-18
+Phillips Inc,2020,19-25
+Phillips and Sons,2020,62-69
+Pierce and Sons,2020,48-54
+Pittman LLC,2022,33-39
+Pitts LLC,2020,48-54
+Pitts PLC,2021,19-25
+Pitts and Sons,2021,48-54
+Pollard Inc,2020,0-18
+Pollard PLC,2021,0-18
+Pollard and Sons,2021,33-39
+Ponce Group,2021,26-32
+Ponce Inc,2020,62-69
+Ponce PLC,2020,48-54
+Ponce PLC,2021,0-18
+Poole Group,2021,55-61
+Poole LLC,2022,70+
+Pope Group,2020,55-61
+Pope LLC,2020,55-61
+Porter Group,2020,19-25
+Porter Inc,2020,"0-18, 33-39"
+Porter and Sons,2022,19-25
+Potter LLC,2020,40-47
+Potter PLC,2020,48-54
+Powell Group,2020,"33-39, 70+"
+Powers Inc,2021,"19-25, 55-61"
+Powers Ltd,2021,0-18
+Powers and Sons,2021,70+
+Powers and Sons,2022,0-18
+Pratt Inc,2020,26-32
+Pratt Inc,2021,26-32
+Pratt Inc,2022,70+
+Pratt LLC,2021,26-32
+Pratt PLC,2021,19-25
+Pratt and Sons,2022,0-18
+Preston Group,2020,19-25
+Preston PLC,2021,40-47
+Preston-Santiago,2020,0-18
+Price LLC,2021,40-47
+Prince PLC,2022,"33-39, 70+"
+Prince and Sons,2020,26-32
+Prince and Sons,2022,33-39
+Proctor Inc,2020,33-39
+Proctor LLC,2021,0-18
+Proctor Ltd,2020,33-39
+Quinn Group,2021,0-18
+Quinn Inc,2021,26-32
+Quinn PLC,2022,55-61
+Ramirez Inc,2021,0-18
+Ramirez PLC,2020,48-54
+Ramirez and Sons,2021,19-25
+Ramos Ltd,2020,55-61
+Ramos PLC,2020,19-25
+Ramos and Sons,2021,62-69
+Ramsey Group,2022,26-32
+Ramsey PLC,2020,55-61
+Ramsey PLC,2021,0-18
+Ramsey and Sons,2020,33-39
+Randall Group,2020,70+
+Randall Ltd,2022,55-61
+Randall PLC,2020,26-32
+Randolph Inc,2020,19-25
+Randolph Ltd,2021,62-69
+Randolph PLC,2020,70+
+Rangel Group,2022,26-32
+Rangel PLC,2020,0-18
+Rangel PLC,2022,33-39
+Rangel and Sons,2021,0-18
+Rasmussen LLC,2020,"55-61, 70+"
+Rasmussen LLC,2021,26-32
+Ray Inc,2022,48-54
+Ray and Sons,2021,"48-54, 62-69"
+Reed LLC,2021,0-18
+Reed PLC,2021,0-18
+Reese Group,2021,48-54
+Reese Ltd,2020,33-39
+Reese and Sons,2021,70+
+Reese-Beard,2022,70+
+Reeves Group,2022,48-54
+Reeves PLC,2021,26-32
+Reeves and Sons,2021,26-32
+Reid PLC,2020,55-61
+Reid and Sons,2022,70+
+Reilly Group,2020,33-39
+Reyes Ltd,2020,19-25
+Reynolds and Sons,2021,40-47
+Rhodes Group,2021,19-25
+Rhodes PLC,2020,0-18
+Rhodes PLC,2021,19-25
+Rhodes and Sons,2020,19-25
+Rhodes-Hartman,2021,0-18
+Rice Inc,2020,55-61
+Rice Ltd,2020,0-18
+Rice PLC,2021,0-18
+Rice and Sons,2020,62-69
+Rice and Sons,2022,19-25
+Rich LLC,2020,70+
+Rich LLC,2021,0-18
+Rich PLC,2021,40-47
+Rich-Heath,2021,33-39
+Richard Ltd,2020,"55-61, 70+"
+Richard Ltd,2022,40-47
+Richard PLC,2020,0-18
+Richard PLC,2022,19-25
+Richard-Delacruz,2020,40-47
+Richards Group,2020,48-54
+Richards LLC,2020,"40-47, 70+"
+Richards PLC,2022,48-54
+Richardson Group,2020,48-54
+Richardson Group,2021,70+
+Richardson PLC,2020,0-18
+Richardson PLC,2021,55-61
+Richardson and Sons,2022,62-69
+Richmond Inc,2020,19-25
+Richmond LLC,2021,70+
+Richmond PLC,2020,26-32
+Richmond and Sons,2021,26-32
+Riddle Group,2020,0-18
+Riddle Group,2021,0-18
+Riddle and Sons,2021,40-47
+Riddle and Sons,2022,62-69
+Riggs Group,2020,0-18
+Riggs Inc,2020,19-25
+Riggs LLC,2020,26-32
+Riley Ltd,2020,33-39
+Riley Ltd,2022,19-25
+Rios LLC,2020,33-39
+Ritter Group,2020,55-61
+Ritter LLC,2020,33-39
+Rivas Ltd,2020,"0-18, 62-69"
+Rivas Ltd,2022,62-69
+Rivera LLC,2021,33-39
+Rivera LLC,2022,19-25
+Rivera and Sons,2022,48-54
+Rivers Group,2021,0-18
+Rivers LLC,2021,70+
+Rivers Ltd,2021,0-18
+Rivers and Sons,2021,55-61
+Roach Inc,2020,33-39
+Roach LLC,2021,33-39
+Roach and Sons,2021,48-54
+Robbins Group,2020,19-25
+Robbins Group,2021,33-39
+Robbins Inc,2020,33-39
+Robbins Inc,2021,55-61
+Robbins and Sons,2021,62-69
+Roberson Inc,2022,40-47
+Roberts LLC,2020,"0-18, 40-47"
+Robertson Group,2020,55-61
+Robertson Inc,2021,26-32
+Robertson Ltd,2021,40-47
+Robertson PLC,2021,40-47
+Robertson PLC,2022,33-39
+Robertson and Sons,2021,26-32
+Robinson Group,2020,48-54
+Robinson Group,2021,0-18
+Robinson Ltd,2022,0-18
+Robles Group,2020,70+
+Robles Ltd,2021,0-18
+Robles and Sons,2020,26-32
+Robles and Sons,2021,0-18
+Rocha Inc,2021,48-54
+Rocha and Sons,2020,40-47
+Rodgers Group,2021,40-47
+Rodgers PLC,2020,0-18
+Rodriguez Group,2021,70+
+Rodriguez LLC,2020,33-39
+Rogers Ltd,2020,26-32
+Rogers and Sons,2021,33-39
+Rojas PLC,2020,26-32
+Rollins LLC,2020,55-61
+Rollins and Sons,2020,55-61
+Roman Group,2020,33-39
+Roman PLC,2020,19-25
+Romero Group,2020,0-18
+Romero Inc,2021,70+
+Rosales Inc,2022,62-69
+Rosales LLC,2022,48-54
+Rosales and Sons,2022,62-69
+Rosario Inc,2020,26-32
+Rose LLC,2020,70+
+Ross and Sons,2021,55-61
+Roth Group,2020,"0-18, 55-61"
+Roth Group,2021,0-18
+Roth Ltd,2021,26-32
+Roth and Sons,2022,62-69
+Rowland LLC,2020,26-32
+Roy Inc,2020,"0-18, 48-54"
+Roy Ltd,2020,0-18
+Roy Ltd,2022,33-39
+Roy PLC,2020,19-25
+Roy and Sons,2022,70+
+Rubio LLC,2022,19-25
+Ruiz Group,2020,0-18
+Ruiz Inc,2020,0-18
+Ruiz LLC,2020,70+
+Rush Inc,2022,70+
+Rush LLC,2022,0-18
+Russell Group,2020,0-18
+Russell Inc,2020,"33-39, 55-61, 62-69"
+Russell LLC,2022,55-61
+Russell PLC,2020,70+
+Russo Group,2020,19-25
+Russo Inc,2020,0-18
+Russo Inc,2022,40-47
+Ryan Group,2020,0-18
+Ryan LLC,2020,70+
+Ryan Ltd,2020,62-69
+Salas Group,2020,19-25
+Salas Inc,2020,0-18
+Salas LLC,2020,33-39
+Salas PLC,2021,48-54
+Salas and Sons,2021,55-61
+Salazar Ltd,2021,26-32
+Salazar and Sons,2022,0-18
+Salinas Group,2020,48-54
+Sampson Ltd,2020,55-61
+Sampson Ltd,2022,0-18
+Sampson PLC,2020,26-32
+Sampson PLC,2021,19-25
+Sampson and Sons,2020,26-32
+Sanchez LLC,2020,0-18
+Sanchez and Sons,2021,0-18
+Sandoval Ltd,2020,26-32
+Sandoval PLC,2020,26-32
+Sandoval PLC,2021,26-32
+Sanford Inc,2022,0-18
+Santana-Norman,2020,62-69
+Santiago Inc,2021,0-18
+Santiago LLC,2020,0-18
+Santiago Ltd,2021,48-54
+Santiago Ltd,2022,19-25
+Santiago PLC,2022,48-54
+Santiago and Sons,2020,48-54
+Santos Group,2020,"40-47, 70+"
+Santos LLC,2020,33-39
+Santos Ltd,2022,0-18
+Santos PLC,2020,0-18
+Santos PLC,2021,70+
+Saunders Ltd,2022,40-47
+Saunders PLC,2021,70+
+Saunders and Sons,2020,26-32
+Savage Group,2021,19-25
+Savage Inc,2020,70+
+Sawyer LLC,2021,"19-25, 70+"
+Schaefer Inc,2020,0-18
+Schaefer Ltd,2022,26-32
+Schaefer PLC,2020,33-39
+Schmidt Ltd,2021,33-39
+Schmitt-Briggs,2020,62-69
+Schneider Inc,2020,"55-61, 70+"
+Schneider LLC,2022,48-54
+Schroeder Group,2020,62-69
+Schroeder Group,2021,40-47
+Schroeder Ltd,2020,"19-25, 55-61"
+Schroeder Ltd,2022,55-61
+Schroeder PLC,2021,70+
+Schroeder-Bell,2021,19-25
+Schultz Inc,2021,19-25
+Schultz Ltd,2020,33-39
+Schultz PLC,2022,48-54
+Schultz and Sons,2020,"19-25, 48-54"
+Schwartz Group,2020,0-18
+Scott PLC,2020,0-18
+Sellers Group,2021,"19-25, 33-39"
+Sellers Group,2022,55-61
+Sellers Inc,2021,"19-25, 62-69"
+Sellers Ltd,2021,33-39
+Sellers Ltd,2022,26-32
+Sellers PLC,2021,0-18
+Serrano Group,2020,"0-18, 19-25"
+Serrano Inc,2021,40-47
+Serrano Ltd,2020,62-69
+Serrano and Sons,2022,55-61
+Shaffer Inc,2021,33-39
+Shaffer PLC,2022,70+
+Shah Group,2022,40-47
+Shah Ltd,2020,48-54
+Shah Ltd,2021,0-18
+Shannon Ltd,2020,0-18
+Sharp Ltd,2021,62-69
+Sharp and Sons,2020,19-25
+Shaw Group,2022,48-54
+Shaw and Sons,2021,"0-18, 48-54"
+Shaw-Evans,2021,55-61
+Shea Group,2022,33-39
+Shea LLC,2020,"55-61, 62-69"
+Shea and Sons,2021,33-39
+Shelton Group,2020,0-18
+Shelton Inc,2020,55-61
+Shelton and Sons,2022,48-54
+Shepard PLC,2020,48-54
+Sheppard Group,2020,48-54
+Sheppard Group,2021,48-54
+Sheppard Inc,2021,40-47
+Sheppard Inc,2022,0-18
+Sheppard LLC,2020,40-47
+Sheppard LLC,2021,19-25
+Sheppard and Sons,2020,40-47
+Sherman Inc,2020,40-47
+Shields Group,2020,40-47
+Shields Ltd,2020,0-18
+Shields and Sons,2020,33-39
+Shields and Sons,2021,26-32
+Short Inc,2020,0-18
+Short and Sons,2020,19-25
+Silva Inc,2021,48-54
+Silva PLC,2021,26-32
+Simmons LLC,2021,55-61
+Simmons Ltd,2021,"40-47, 62-69"
+Simmons PLC,2020,33-39
+Simmons and Sons,2020,40-47
+Simmons and Sons,2022,26-32
+Simon Group,2020,70+
+Simon Inc,2021,0-18
+Simon Ltd,2021,33-39
+Simpson Inc,2021,"19-25, 33-39, 55-61"
+Simpson Inc,2022,70+
+Simpson LLC,2022,48-54
+Simpson PLC,2021,55-61
+Simpson and Sons,2021,0-18
+Sims Inc,2021,19-25
+Sims PLC,2020,0-18
+Singh and Sons,2022,33-39
+Singleton Group,2020,19-25
+Singleton Group,2022,26-32
+Singleton LLC,2020,70+
+Singleton LLC,2021,26-32
+Singleton and Sons,2020,70+
+Singleton-Harrell,2020,70+
+Skinner Group,2020,19-25
+Skinner and Sons,2021,70+
+Sloan PLC,2021,62-69
+Sloan and Sons,2022,0-18
+Small Group,2020,0-18
+Small and Sons,2021,19-25
+Smith Inc,2021,55-61
+Snow Inc,2021,26-32
+Snow Ltd,2020,33-39
+Snow PLC,2022,40-47
+Snow-Crawford,2021,40-47
+Snyder Group,2020,40-47
+Snyder Group,2021,40-47
+Snyder LLC,2021,33-39
+Solis Inc,2021,40-47
+Solis and Sons,2020,33-39
+Solomon Group,2020,"0-18, 40-47"
+Solomon Inc,2021,33-39
+Solomon LLC,2020,70+
+Solomon PLC,2020,62-69
+Solomon and Sons,2022,48-54
+Sosa Group,2022,19-25
+Soto Group,2021,48-54
+Soto Ltd,2020,55-61
+Sparks LLC,2022,0-18
+Sparks PLC,2020,"0-18, 48-54"
+Sparks and Sons,2021,33-39
+Spears Ltd,2020,48-54
+Spears and Sons,2021,62-69
+Spence Group,2020,0-18
+Spence LLC,2020,0-18
+Spence Ltd,2020,26-32
+Spencer Ltd,2020,"33-39, 55-61"
+Spencer and Sons,2020,0-18
+Spencer and Sons,2021,"26-32, 40-47"
+Stafford LLC,2021,62-69
+Stafford and Sons,2021,33-39
+Stanley LLC,2022,0-18
+Stanley PLC,2020,0-18
+Stanton and Sons,2020,0-18
+Stark Inc,2021,33-39
+Stark and Sons,2022,40-47
+Steele Group,2021,62-69
+Steele LLC,2020,40-47
+Steele Ltd,2020,33-39
+Steele Ltd,2021,48-54
+Steele PLC,2022,55-61
+Steele and Sons,2021,"0-18, 19-25"
+Stein Group,2020,55-61
+Stein Group,2022,62-69
+Stein Ltd,2020,55-61
+Stein PLC,2021,55-61
+Stein-Carey,2021,62-69
+Stephens Group,2020,70+
+Stephens Inc,2021,40-47
+Stephens LLC,2020,70+
+Stephens Ltd,2020,26-32
+Stephens-Odonnell,2020,70+
+Stevens LLC,2021,33-39
+Stevens Ltd,2020,48-54
+Stevens and Sons,2020,0-18
+Stevenson PLC,2021,0-18
+Stevenson and Sons,2021,55-61
+Stewart Group,2020,55-61
+Stewart Inc,2021,40-47
+Stewart Ltd,2020,62-69
+Stewart PLC,2021,0-18
+Stewart and Sons,2020,0-18
+Stewart-Morris,2022,48-54
+Stokes Inc,2021,40-47
+Stokes Ltd,2020,40-47
+Stokes PLC,2020,48-54
+Stokes and Sons,2021,48-54
+Stone LLC,2020,48-54
+Stone PLC,2020,62-69
+Stout LLC,2020,0-18
+Stout Ltd,2020,55-61
+Strickland Inc,2021,55-61
+Strickland Ltd,2021,0-18
+Strickland and Sons,2021,"19-25, 48-54"
+Strong LLC,2020,"40-47, 62-69"
+Stuart Group,2020,48-54
+Stuart and Sons,2020,55-61
+Suarez Inc,2021,40-47
+Suarez LLC,2021,26-32
+Suarez and Sons,2020,33-39
+Suarez-Donaldson,2021,70+
+Sullivan Group,2022,26-32
+Summers Group,2021,33-39
+Summers Inc,2020,55-61
+Summers LLC,2020,0-18
+Summers and Sons,2021,40-47
+Sutton Group,2020,70+
+Sutton Ltd,2022,70+
+Sutton and Sons,2020,62-69
+Swanson Ltd,2020,0-18
+Swanson PLC,2021,48-54
+Sweeney LLC,2021,"26-32, 48-54"
+Sweeney Ltd,2021,0-18
+Sweeney and Sons,2022,33-39
+Tanner PLC,2022,62-69
+Tapia Group,2021,55-61
+Tapia LLC,2020,26-32
+Tapia PLC,2020,62-69
+Tate Group,2020,19-25
+Tate Group,2021,55-61
+Tate Inc,2021,48-54
+Tate Ltd,2020,33-39
+Tate and Sons,2021,62-69
+Taylor Group,2020,62-69
+Taylor Ltd,2020,0-18
+Taylor Ltd,2021,62-69
+Terrell Inc,2021,62-69
+Terrell LLC,2021,55-61
+Terrell and Sons,2021,0-18
+Terry Group,2020,40-47
+Terry Inc,2022,40-47
+Thomas Group,2020,26-32
+Thomas Inc,2020,62-69
+Thomas Inc,2021,62-69
+Thomas LLC,2021,0-18
+Thomas PLC,2021,0-18
+Thompson Group,2020,40-47
+Thompson Inc,2020,70+
+Thompson Inc,2021,40-47
+Thompson PLC,2021,0-18
+Thompson and Sons,2020,70+
+Thornton Group,2020,40-47
+Thornton Group,2022,40-47
+Thornton Inc,2020,48-54
+Thornton Ltd,2021,70+
+Todd Inc,2020,40-47
+Todd and Sons,2020,0-18
+Todd and Sons,2022,19-25
+Torres Group,2021,0-18
+Torres PLC,2021,40-47
+Townsend LLC,2021,19-25
+Tran and Sons,2021,62-69
+Travis Inc,2022,55-61
+Travis LLC,2021,48-54
+Travis and Sons,2022,62-69
+Trevino Group,2021,0-18
+Trevino Group,2022,26-32
+Trevino Inc,2021,19-25
+Tucker Ltd,2020,0-18
+Tucker Ltd,2021,40-47
+Tucker-Compton,2020,0-18
+Tucker-Rasmussen,2020,26-32
+Turner LLC,2020,33-39
+Turner and Sons,2021,26-32
+Tyler Group,2021,26-32
+Tyler Inc,2020,33-39
+Tyler Ltd,2022,62-69
+Tyler and Sons,2022,70+
+Underwood Inc,2020,62-69
+Underwood Inc,2021,70+
+Underwood Ltd,2021,48-54
+Underwood and Sons,2021,0-18
+Valdez Group,2021,33-39
+Valdez Ltd,2021,62-69
+Valdez PLC,2020,"26-32, 40-47"
+Valdez PLC,2022,55-61
+Valdez and Sons,2022,33-39
+Valencia Group,2021,55-61
+Valencia LLC,2020,70+
+Valentine Group,2021,0-18
+Valentine Inc,2021,33-39
+Valentine LLC,2021,55-61
+Valentine Ltd,2020,62-69
+Valentine PLC,2020,62-69
+Valentine and Sons,2020,26-32
+Valentine and Sons,2021,40-47
+Valenzuela LLC,2020,48-54
+Valenzuela PLC,2020,"19-25, 62-69"
+Vance PLC,2020,55-61
+Vang Group,2022,33-39
+Vang PLC,2022,0-18
+Vasquez Inc,2020,0-18
+Vasquez Ltd,2021,0-18
+Vaughan Ltd,2020,0-18
+Vaughan PLC,2020,26-32
+Vaughan and Sons,2020,"19-25, 33-39"
+Vaughn Group,2021,70+
+Vaughn Inc,2020,70+
+Vaughn LLC,2021,70+
+Vaughn Ltd,2020,70+
+Vazquez Inc,2021,19-25
+Vazquez Ltd,2020,40-47
+Vega Group,2020,0-18
+Velasquez LLC,2020,0-18
+Velazquez PLC,2020,70+
+Velazquez PLC,2022,0-18
+Velazquez and Sons,2021,33-39
+Velez Inc,2020,55-61
+Villa Ltd,2020,33-39
+Villanueva Ltd,2020,26-32
+Villarreal Group,2020,70+
+Villarreal and Sons,2021,0-18
+Villegas Inc,2020,19-25
+Villegas Ltd,2021,48-54
+Villegas Ltd,2022,55-61
+Villegas and Sons,2020,19-25
+Vincent Group,2020,48-54
+Vincent Ltd,2022,55-61
+Vincent and Sons,2021,48-54
+Vincent and Sons,2022,0-18
+Wade Group,2021,19-25
+Wagner Group,2022,0-18
+Wagner Inc,2020,62-69
+Wagner LLC,2020,55-61
+Walker Group,2020,26-32
+Wall Group,2021,26-32
+Wall PLC,2021,70+
+Wallace LLC,2022,62-69
+Wallace Ltd,2021,33-39
+Wallace and Sons,2020,26-32
+Waller Group,2020,19-25
+Waller Ltd,2020,33-39
+Waller and Sons,2021,33-39
+Waller-Armstrong,2020,70+
+Walls LLC,2020,"0-18, 26-32"
+Walls LLC,2021,19-25
+Walls Ltd,2021,0-18
+Walls and Sons,2021,70+
+Walsh LLC,2020,19-25
+Walter LLC,2022,33-39
+Walters Inc,2020,26-32
+Walters and Sons,2022,48-54
+Walton Inc,2020,33-39
+Walton Inc,2021,0-18
+Walton Ltd,2020,62-69
+Walton and Sons,2021,0-18
+Ward Group,2020,48-54
+Ward and Sons,2021,19-25
+Ware Inc,2021,40-47
+Ware and Sons,2020,"0-18, 62-69"
+Warner Ltd,2022,33-39
+Warren Inc,2022,55-61
+Warren LLC,2020,48-54
+Warren Ltd,2021,0-18
+Warren PLC,2020,0-18
+Warren PLC,2021,62-69
+Waters Ltd,2021,33-39
+Waters Ltd,2022,33-39
+Watkins Group,2022,70+
+Watkins Inc,2022,0-18
+Watkins and Sons,2020,33-39
+Watson Group,2020,"0-18, 55-61"
+Watson and Sons,2021,"0-18, 19-25"
+Watts Group,2020,48-54
+Watts LLC,2020,"40-47, 55-61"
+Watts LLC,2021,0-18
+Watts PLC,2020,40-47
+Weaver Group,2021,70+
+Weaver Inc,2020,55-61
+Weaver LLC,2021,70+
+Weaver Ltd,2020,70+
+Webb and Sons,2021,62-69
+Weber Group,2020,0-18
+Weber LLC,2021,0-18
+Weber Ltd,2020,62-69
+Webster Group,2020,62-69
+Webster LLC,2020,0-18
+Webster LLC,2021,0-18
+Webster Ltd,2020,62-69
+Webster Ltd,2021,40-47
+Weeks-Norman,2021,40-47
+Weiss Group,2020,26-32
+Weiss Inc,2021,19-25
+Weiss PLC,2020,48-54
+Welch Group,2020,40-47
+Welch Ltd,2020,"0-18, 55-61"
+Welch and Sons,2021,26-32
+Wells LLC,2021,70+
+Wells Ltd,2021,19-25
+Werner Group,2020,0-18
+Werner-Casey,2021,0-18
+West and Sons,2020,48-54
+West and Sons,2021,"0-18, 70+"
+Wheeler LLC,2020,48-54
+Wheeler and Sons,2021,"19-25, 55-61"
+Whitaker Group,2020,70+
+White Group,2020,55-61
+White Group,2021,40-47
+White and Sons,2021,"0-18, 55-61"
+Whitehead Group,2021,40-47
+Whitehead Inc,2020,26-32
+Whitehead and Sons,2020,62-69
+Whitehead and Sons,2021,0-18
+Whitehead-Jordan,2020,0-18
+Whitney Group,2020,0-18
+Whitney Group,2022,33-39
+Whitney Inc,2020,0-18
+Whitney LLC,2020,55-61
+Wiggins Group,2020,33-39
+Wiggins LLC,2020,33-39
+Wilcox LLC,2022,55-61
+Wilcox Ltd,2021,40-47
+Wilcox PLC,2020,0-18
+Wiley Inc,2020,"33-39, 48-54"
+Wiley LLC,2021,33-39
+Wiley Ltd,2020,70+
+Wiley PLC,2021,48-54
+Wiley-Rosales,2022,0-18
+Wilkerson Ltd,2021,55-61
+Wilkerson and Sons,2021,48-54
+Wilkins Inc,2020,40-47
+Wilkins Ltd,2020,0-18
+Wilkinson Group,2020,40-47
+Wilkinson LLC,2020,26-32
+Wilkinson Ltd,2021,"33-39, 62-69"
+Wilkinson Ltd,2022,40-47
+Williams Group,2021,0-18
+Williams Inc,2020,26-32
+Williamson PLC,2021,48-54
+Williamson and Sons,2020,62-69
+Willis Group,2021,70+
+Willis PLC,2021,55-61
+Wilson Inc,2020,70+
+Wilson Ltd,2022,55-61
+Winters Group,2021,0-18
+Winters PLC,2021,26-32
+Winters and Sons,2020,48-54
+Wise Group,2020,48-54
+Wolf Ltd,2021,26-32
+Wolf PLC,2020,62-69
+Wolf PLC,2021,40-47
+Wolfe Group,2020,0-18
+Wolfe LLC,2020,55-61
+Wolfe PLC,2020,62-69
+Wong Group,2021,48-54
+Wong Inc,2020,70+
+Wong and Sons,2020,26-32
+Wood Group,2022,33-39
+Wood Inc,2021,0-18
+Wood PLC,2020,26-32
+Wood and Sons,2021,62-69
+Woodard Group,2020,26-32
+Woods Ltd,2021,70+
+Woods and Sons,2022,0-18
+Woodward Ltd,2020,"0-18, 19-25"
+Woodward PLC,2020,0-18
+Wright Inc,2021,26-32
+Wright Inc,2022,55-61
+Wright PLC,2021,62-69
+Wright and Sons,2021,62-69
+Wu Ltd,2021,0-18
+Wu Ltd,2022,33-39
+Wyatt Inc,2021,40-47
+Wyatt LLC,2021,70+
+Wyatt Ltd,2022,33-39
+Yang Inc,2021,70+
+Yates LLC,2021,33-39
+Yates and Sons,2022,26-32
+Yoder Group,2020,0-18
+Yoder Inc,2021,0-18
+Yoder LLC,2020,55-61
+Yoder Ltd,2020,62-69
+Yoder PLC,2022,55-61
+York Ltd,2020,26-32
+York and Sons,2020,33-39
+Young Group,2020,70+
+Young LLC,2022,0-18
+Young Ltd,2021,0-18
+Yu PLC,2021,0-18
+Zamora Ltd,2022,55-61
+Zamora PLC,2022,55-61
+Zamora and Sons,2020,62-69
+Zavala LLC,2022,48-54
+Zhang LLC,2020,19-25
+Zimmerman Inc,2021,55-61
+Zimmerman Inc,2022,33-39
+Zimmerman LLC,2020,55-61
+Zuniga and Sons,2021,55-61
+Zuniga-Marks,2020,26-32
