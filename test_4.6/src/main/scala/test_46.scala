@@ -60,6 +60,7 @@ object test_46 extends App {
   var i: Int = 0
   val lst = new_sal_2.sorted
 
+  // Задача п. 3, подпункт g
   println("Задача п. 3, подпункт g")
   print("Salary list members: ")
 
