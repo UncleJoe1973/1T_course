@@ -1,0 +1,50 @@
+version: '3.9'
+services:
+
+  postgres_exam:
+    image: postgres:alpine
+    environment:
+      POSTGRES_DB: "testdb"
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "postgres"
+      PGDATA: "/var/lib/postgresql/data/pgdata"
+    volumes:
+      - project-db:/var/lib/postgresql/data
+      - ./init_db/:/docker-entrypoint-initdb.d/
+      - ./row_data/:/tmp/exam/row_data/
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d testdb"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+    networks:
+      - exam-network
+
+  python_exam:
+      container_name: python
+      build: ./app
+      working_dir: /var/tmp/project
+      volumes:
+        - ./scrypts:/var/tmp/project
+        - ./result:/var/tmp/result
+      command: sh -c "sleep 60 && python final_scrypt.py" #!установлена задержка в 60 секунд, при необходимости внести изменения
+      ports: 
+        - 4000:4000
+      networks:
+        - exam-network
+      depends_on:
+        - postgres_exam
+
+networks:
+  exam-network:
+    driver: bridge
+    ipam:
+      driver: default
+
+
+volumes:
+  project-db:
